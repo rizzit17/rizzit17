@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rishit Chaudhary  
 
 💻 CSE (IoT) Student | Full-Stack Web Developer  
-📍 Noida, India  
+📍 Noida , India  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishit-chaudhary17" target="_blank">
@@ -122,7 +122,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishit-chaudhary17)
 - 💻 [Portfolio](https://rishit-cv.vercel.app/)
-- 📧 Email: **rishitwork28@gmail.com**
+- 📧 Email me at : **rishitwork28@gmail.com**
 
 ---
 
