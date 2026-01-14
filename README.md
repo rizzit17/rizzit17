@@ -1,7 +1,29 @@
 # 👋 Hey, I'm Rishit Chaudhary  
 
-💻 Computer Science Engineering (IoT) Student | Full-Stack Web Developer  
+💻 CSE (IoT) Student | Full-Stack Web Developer  
 📍 Noida, India  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rishitwork28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/rishitwork28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
