@@ -32,15 +32,16 @@
 ```javascript
 const rishit = {
     education: "CSE (IoT) @ VIT Vellore",
-    passions: ["Full-Stack Development", "System Design", "Clean Code"],
-    currentFocus: ["Backend Scalability", "Modern UI/UX", "Cloud Architecture"],
-    mindset: "Building scalable solutions, one commit at a time 🚀"
+    passions: ["Full-Stack Development", "AI/ML Integration", "Mobile Development"],
+    currentFocus: ["Backend Scalability", "Android Development", "AI-Powered Apps"],
+    mindset: "Building intelligent, scalable solutions, one commit at a time 🚀"
 };
 ```
 
-🚀 Passionate about building **clean, scalable web applications** and understanding systems from the ground up  
+🚀 Passionate about building **clean, scalable applications** with **AI/ML integration**  
 🧩 Strong foundation in **core CS concepts** (DSA, OS, Networks) and **full-stack development**  
-💡 Exploring **system design**, **backend scalability**, and **modern frontend frameworks**
+📱 Experienced in **native Android development** with Jetpack Compose and modern architecture patterns  
+💡 Exploring **AI-powered platforms**, **backend scalability**, and **mobile-first experiences**
 
 ---
 
@@ -54,6 +55,7 @@ const rishit = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -63,9 +65,15 @@ const rishit = {
 
 ### 🛠️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML%20Kit-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
 ### ☁️ Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -81,25 +89,30 @@ const rishit = {
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/brain.png" width="50"/>
       <br><b>Core CS</b>
       <br>DSA, OS, CN, OOPS
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="50"/>
       <br><b>Backend Dev</b>
-      <br>REST APIs, FastAPI, Node.js
+      <br>REST APIs, Node.js, FastAPI
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/web.png" width="50"/>
       <br><b>Frontend Dev</b>
       <br>React, Tailwind, UI/UX
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/>
-      <br><b>Cloud & DevOps</b>
-      <br>AWS EC2, S3, IAM
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/android-os.png" width="50"/>
+      <br><b>Mobile Dev</b>
+      <br>Android, Jetpack Compose
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"/>
+      <br><b>AI/ML</b>
+      <br>OpenAI API, ML Kit
     </td>
   </tr>
 </table>
@@ -109,14 +122,28 @@ const rishit = {
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔹 VS Code Themed Portfolio</b></summary>
+<summary><b>🔹 Meetzy – AI-Powered Meeting Platform</b> | <a href="https://github.com/rizzit17/smartmeeting">GitHub</a></summary>
 <br>
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `OpenAI API` `JWT`
 
-- ✨ Portfolio inspired by **VS Code UI** with MacBook-style layout
-- 🎨 Interactive sections for projects, skills & experience
-- 📱 Focused on clean UI, responsiveness, and developer aesthetics
+- 🎙️ Developed a **full-stack AI meeting platform** enabling real-time transcription and automated summaries
+- 🤖 Integrated **OpenAI API** to extract key insights and action items, reducing manual note-taking by **70%**
+- ⚡ Designed **RESTful APIs** with JWT authentication and optimized MongoDB queries, improving response time by **35%**
+- 🔒 Implemented secure user authentication and role-based access control ensuring protected meeting data
+
+</details>
+
+<details open>
+<summary><b>🔹 LegalGPT – AI Legal Assistant App</b> | <a href="https://github.com/rizzit17/vakeelapp">GitHub</a></summary>
+<br>
+
+**Tech Stack:** `Kotlin` `Jetpack Compose` `ML Kit` `Retrofit` `Hilt` `CameraX` `Coroutines`
+
+- ⚖️ Engineered a **native Android app** using **Jetpack Compose** to provide AI-driven legal intelligence, risk detection, and automated contract generation
+- 📄 Integrated **Google ML Kit OCR** and **CameraX** to enable high-accuracy document scanning and text extraction
+- 🏗️ Architected a modular codebase utilizing **MVVM**, **Hilt (DI)**, and **Retrofit** for efficient state management and API communication
+- 🚀 Implemented a robust navigation system and custom **SplashScreen API** to enhance user onboarding and experience
 
 </details>
 
@@ -141,6 +168,18 @@ const rishit = {
 - 🎮 Gamified quizzes, progress tracking, leaderboards
 - 🌍 Multilingual support (English + Hindi)
 - 🎯 Designed for engagement and accessibility
+
+</details>
+
+<details open>
+<summary><b>🔹 VS Code Themed Portfolio</b></summary>
+<br>
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+- ✨ Portfolio inspired by **VS Code UI** with MacBook-style layout
+- 🎨 Interactive sections for projects, skills & experience
+- 📱 Focused on clean UI, responsiveness, and developer aesthetics
 
 </details>
 
