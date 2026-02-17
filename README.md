@@ -259,7 +259,31 @@ const rishit = {
 - 📊 Optimized MongoDB queries improving response time by **35%**
 
 </details>
+<details open>
+<summary><h3>⚖️ VeriLex – AI Legal Document Analyzer</h3></summary>
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</div>
+
+**✨ Key Features:**
+- 📄 Upload and parse complex legal PDFs with instant AI-powered analysis
+- 🤖 Gemini 1.5 Flash for risk classification and key obligation extraction
+- 🔍 Automated missing clause detection using structured JSON prompt outputs
+- 🚀 Frontend deployed on Vercel, backend on Railway with in-memory file handling
+- 🔒 Zero-persistence architecture for document security
+
+</details>
 <details open>
 <summary><h3>⚖️ LegalGPT – AI Legal Assistant App</h3></summary>
 
