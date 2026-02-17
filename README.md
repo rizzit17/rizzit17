@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rishit Chaudhary
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Integration+Specialist+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Building+The+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Frontend+&+Backend+Engineer%F0%9F%A4%96;Building+The+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 💻 CSE (IoT) Student | Full-Stack Developer | AI Enthusiast
 📍 Noida, India
