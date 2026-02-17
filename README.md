@@ -450,38 +450,6 @@ const rishit = {
 
 ---
 
-## 🌟 What I'm Currently Up To
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Rishit))
-    Building
-      AI-Powered Apps
-      Scalable Backends
-      Mobile Apps
-    Learning
-      Cloud Architecture
-      DevOps Practices
-      System Design
-    Exploring
-      Microservices
-      Kubernetes
-      GraphQL
-```
-
-</div>
-
-- 🔭 Working on **AI-powered applications** with modern tech stacks
-- 🌱 Learning **Cloud Architecture** and **DevOps best practices**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full-Stack Development, AI Integration, or Mobile Dev**
-- 📫 Reach me at: **rishitwork28@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!** 😄
-
----
-
 ## 🎨 Code Philosophy
 
 <div align="center">
