@@ -428,13 +428,7 @@ const rishit = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzit17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 
-</div>
 
 <div align="center">
   
