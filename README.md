@@ -39,24 +39,15 @@ const rishit: Developer = {
 
   roles: [
     "Full-Stack Developer",
-    "Android Engineer",
     "AI/ML Integrations",
+    "UI/UX & Graphic Designer",
   ],
-
-  currentlyWorking: "India Space Lab Internship",
 
   focus: {
     web:    "React · Node.js · FastAPI",
-    mobile: "Kotlin + Jetpack Compose",
     ai:     "OpenAI API · Gemini · ML Kit",
     cloud:  "AWS · Vercel · Railway",
   },
-
-  communities: [
-    "Perplexity Campus Partner",
-    "IEEE CS Core Committee",
-    "Pixelate Design Club",
-  ],
 
   funFact: "I debug at 2AM and call it peak focus",
 };
@@ -64,11 +55,10 @@ const rishit: Developer = {
 
 <br clear="right"/>
 
-- 🔭 Currently interning at **India Space Lab** — satellite systems & remote sensing
-- 🌱 Deepening expertise in **cloud architecture, DevOps, and AI-native applications**
+- 🌱 Deepening expertise in **cloud architecture, full stack and AI-native applications**
 - 🧩 Strong CS fundamentals — DSA, OS, Computer Networks, OOPs
-- 🏆 Impacted **200+ students** through campus leadership & workshops
-- 💬 Ask me about **React, Node.js, Android, or AI integrations**
+- 🏆 Impacted **180+ students** through campus leadership & workshops
+- 💬 Ask me about **React, Node.js or AI integrations**
 
 <br/>
 
@@ -83,7 +73,6 @@ const rishit: Developer = {
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -92,7 +81,6 @@ const rishit: Developer = {
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -118,7 +106,6 @@ const rishit: Developer = {
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 </div>
 
@@ -234,7 +221,7 @@ VS Code–themed portfolio with **Tokyo Night Storm** palette, tab navigation, l
 
 ### 🛰️ India Space Lab
 **Winter Intern**
-`Jan 2026 – Present`
+`Jan 2026 - Feb 2026`
 
 Remote · Competitive Selection
 
@@ -254,7 +241,7 @@ Remote · Competitive Selection
 
 VIT Vellore · Student Ambassador
 
-- Onboarded **200+ students** via demos
+- Onboarded **180+ students** via demos
 - Organized AI research tool workshops
 - Provided product feedback to team
 
