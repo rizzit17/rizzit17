@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Integrating+AI+into+real-world+products+%F0%9F%A4%96;Native+Android+with+Jetpack+Compose+%F0%9F%93%B1;Turning+coffee+into+clean+code+%E2%98%95+%E2%86%92+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Integrating+AI+into+real-world+products+%F0%9F%A4%96;;Turning+coffee+into+clean+code+%E2%98%95+%E2%86%92+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
