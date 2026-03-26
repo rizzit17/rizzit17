@@ -299,7 +299,6 @@ VIT Vellore · Student Ambassador
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzit17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=4ade80&text_color=c8c8d0&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizzit17&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=4ade80&line=c084fc&point=ffffff&area=true" alt="Contribution Graph"/>
 
 </div>
@@ -308,42 +307,7 @@ VIT Vellore · Student Ambassador
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a8b6e9d-7a00-4e0a-a3b3-c3e49e4c5d02.png" width="28"/> &nbsp;Dev Philosophy
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-```
-"First, solve the problem.
- Then, write the code."
-
-     — John Johnson
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-"Code is like humor.
- When you explain it,
- it's bad."
-
-     — Cory House
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-"Make it work,
- make it right,
- make it fast."
-
-     — Kent Beck
-```
 
 </td>
 </tr>
