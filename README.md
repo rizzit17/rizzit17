@@ -119,6 +119,39 @@ const rishit: Developer = {
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ V0idCh3ck — AI Code Review Platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4ADE80?style=flat-square&logo=vercel&logoColor=black)](https://void-check.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
+![Groq](https://img.shields.io/badge/LLaMA_3.3_70B-F55036?style=flat-square&logo=meta&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Paste code or a GitHub URL and get instant **AI-powered code reviews** — health scores, bug detection, security analysis, and actionable fixes via Groq LLaMA 3.3 70B.
+
+> 🟢 **Multi-language** support with integrated Monaco Editor
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 BreakBias — AI Bias Awareness App
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/BreakBias)
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+Dual-mode interactive simulator with **AI-generated workplace bias scenarios**, role-personalized via Gemini API with a rubric-based response evaluator.
+
+> 🟢 **Zero-downtime** local fallback engine
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎙️ Meetzy — AI Meeting Platform
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/smartmeeting)
 
@@ -127,7 +160,7 @@ const rishit: Developer = {
 ![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Full-stack AI platform with **real-time transcription**, automated meeting summaries, and action-item extraction via GPT-4.
+Full-stack AI platform with **real-time transcription**, automated meeting summaries, and LLM-driven action-item extraction via GPT-4.
 
 > 🟢 **70% reduction** in manual note-taking
 
@@ -150,9 +183,6 @@ Upload complex legal PDFs and get instant **risk classification**, missing claus
 <tr>
 <td width="50%" valign="top">
 
-
-
-
 ### 💻 VS Code Portfolio
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4ADE80?style=flat-square&logo=vercel&logoColor=black)](https://rishit-cv.vercel.app/)
 
@@ -171,6 +201,7 @@ VS Code–themed portfolio with **Tokyo Night Storm** palette, tab navigation, l
 <br/>
 
 ---
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28"/> &nbsp;Experience & Leadership
 
