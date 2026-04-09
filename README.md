@@ -150,49 +150,8 @@ Upload complex legal PDFs and get instant **risk classification**, missing claus
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ LegalGPT — Android AI Assistant
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/vakeelapp)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-FF6D00?style=flat-square&logo=google&logoColor=white)
 
-Native Android app with **OCR document scanning**, MVVM + Hilt DI, AI-driven risk detection and contract generation.
-
-> 🟢 **MVVM + Hilt** clean architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Amber Essence — Restaurant Platform
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/amber-essence)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Full-stack restaurant platform with **table booking**, auth, and customer reviews. React Context API for state management.
-
-> 🟢 **60% faster** booking flow
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 ShikshaPlay — E-Learning Platform
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/shikshaplay)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-EN+HI-c084fc?style=flat-square)
-
-Gamified learning with **interactive quizzes, leaderboards, and progress tracking**. Multilingual: English + Hindi.
-
-> 🟢 **Gamified** for maximum engagement
-
-</td>
-<td width="50%" valign="top">
 
 ### 💻 VS Code Portfolio
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4ADE80?style=flat-square&logo=vercel&logoColor=black)](https://rishit-cv.vercel.app/)
