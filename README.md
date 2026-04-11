@@ -358,33 +358,6 @@ VIT Vellore · Student Ambassador
 
 ---
 
-## 🖥️ Portfolio Preview
-
-> VS Code–inspired portfolio · Tokyo Night Storm · Zero build step
-┌──────────────────────────────────────────────────────────────────────┐
-│  rishit-chaudhary   ›  projects.tsx                       ⎇ main ✓  │
-├──────────┬───────────────────────────────────────────────────────────│
-│          │  about.jsx  projects.tsx  skills.json  contact.css        │
-│ Rishit   ├───────────────────────────────────────────────────────────│
-│ Chaudhary│                                                           │
-│          │  const projects: Project[] = [                            │
-│ ● Open   │    { name: "VoidCheck",  tech: "Groq LLaMA 3.3 70B" },   │
-│   to     │    { name: "BreakBias",  tech: "Gemini API"          },   │
-│   Work   │    { name: "SmartAgri",  tech: "MQTT + scikit-learn" },   │
-│          │    { name: "Meetzy",     impact: "70% less note-taking"},  │
-│ ->Noida  │    { name: "VeriLex",    tech: "Gemini 1.5 Flash"    },   │
-│          │    { name: "ModelGuard", security: "AI Model Scanner" },   │
-│ Explorer │    { name: "DupSense",   feature: "Smart Detection"  },   │
-│ ──────── │  ];                                                        │
-│ about    │                                                           │
-│ projects │                                                           │
-│ skills   │  // 1–7 keyboard shortcuts · Tab navigation · Live term   │
-└──────────┴───────────────────────────────────────────────────────────┘
-
-<br/>
-
----
-
 <div align="center">
 Clean Code  +  Scalable Architecture  +  AI-Powered Features  =  🚀
 
