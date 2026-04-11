@@ -199,6 +199,7 @@ Full-stack AI meeting platform with **real-time transcription** and automated su
 <td width="50%" valign="top">
 
 ### 📜 VeriLex — AI Legal Document Analyzer
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4ADE80?style=flat-square&logo=vercel&logoColor=black)](https://veri-lex.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
