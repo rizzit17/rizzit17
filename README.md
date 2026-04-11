@@ -149,8 +149,6 @@ Dual-mode interactive simulator with **AI-generated workplace bias scenarios**, 
 > 🟢 **Zero-downtime** local fallback engine
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌾 SmartAgri — IoT Precision Farming
@@ -166,8 +164,7 @@ End-to-end IoT system with **real-time sensor monitoring**, ML-powered crop reco
 > 🟢 **Auto-refresh** live dashboard with PDF report generation
 
 </td>
-
-
+<td width="50%" valign="top">
 ### 🎙️ Meetzy — AI Meeting Platform
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/smartmeeting)
 
