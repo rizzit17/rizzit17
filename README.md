@@ -153,6 +153,22 @@ Dual-mode interactive simulator with **AI-generated workplace bias scenarios**, 
 <tr>
 <td width="50%" valign="top">
 
+### 🌾 SmartAgri — IoT Precision Farming
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+End-to-end IoT system with **real-time sensor monitoring**, ML-powered crop recommendations via Random Forest, smart alerts, and a built-in farming chatbot.
+
+> 🟢 **Auto-refresh** live dashboard with PDF report generation
+
+</td>
+</tr>
+
+
 ### 🎙️ Meetzy — AI Meeting Platform
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/smartmeeting)
 
