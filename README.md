@@ -149,6 +149,8 @@ Dual-mode interactive simulator with **AI-generated workplace bias scenarios**, 
 > 🟢 **Zero-downtime** local fallback engine
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌾 SmartAgri — IoT Precision Farming
@@ -165,6 +167,7 @@ End-to-end IoT system with **real-time sensor monitoring**, ML-powered crop reco
 
 </td>
 <td width="50%" valign="top">
+
 ### 🎙️ Meetzy — AI Meeting Platform
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/smartmeeting)
 
@@ -178,6 +181,8 @@ Full-stack AI platform with **real-time transcription**, automated meeting summa
 > 🟢 **70% reduction** in manual note-taking
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📜 VeriLex — AI Legal Analyzer
@@ -192,8 +197,6 @@ Upload complex legal PDFs and get instant **risk classification**, missing claus
 > 🟢 **Zero-persistence** architecture for document security
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 VS Code Portfolio
@@ -214,7 +217,6 @@ VS Code–themed portfolio with **Tokyo Night Storm** palette, tab navigation, l
 <br/>
 
 ---
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28"/> &nbsp;Experience & Leadership
 
@@ -310,13 +312,7 @@ VIT Vellore · Student Ambassador
 
 ---
 
-
-
-</td>
-</tr>
-</table>
-
-<br/>
+<div align="center">
 
 ```
 Clean Code  +  Scalable Architecture  +  User-Centric Design  =  🚀
