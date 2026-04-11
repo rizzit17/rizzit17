@@ -166,7 +166,6 @@ End-to-end IoT system with **real-time sensor monitoring**, ML-powered crop reco
 > 🟢 **Auto-refresh** live dashboard with PDF report generation
 
 </td>
-</tr>
 
 
 ### 🎙️ Meetzy — AI Meeting Platform
