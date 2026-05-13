@@ -315,6 +315,24 @@ VIT Vellore · Student Ambassador
 
 </td>
 </tr>
+<tr>
+<td colspan="3" align="center" valign="top">
+
+### 🏢 DS Group — Dharampal Satyapal Ltd.
+**Strategy & Business Development Intern**
+`May 2026 – Jun 2026`
+
+Noida, India · On-site
+
+- Working under **Mr. Anmol Badsra, Senior General Manager**
+- Contributing to strategy and business development initiatives
+- Part of one of India's leading FMCG & diversified conglomerates
+
+![Strategy](https://img.shields.io/badge/Strategy_%26_Biz_Dev-4ade80?style=flat-square)
+![Noida](https://img.shields.io/badge/Noida_HQ-60a5fa?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 <br/>
