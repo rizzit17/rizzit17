@@ -324,7 +324,6 @@ VIT Vellore · Student Ambassador
 
 Noida, India · On-site
 
-- Working under **Mr. Anmol Badsra, Senior General Manager**
 - Contributing to strategy and business development initiatives
 - Part of one of India's leading FMCG & diversified conglomerates
 
