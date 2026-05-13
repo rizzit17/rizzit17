@@ -269,6 +269,23 @@ VS Code–inspired portfolio with **Tokyo Night Storm** palette, file explorer s
 
 <table>
 <tr>
+<td colspan="3" align="center" valign="top">
+
+### <img src="https://www.dsgroup.com/front/img/logo.png" height="28" alt="DS Group"/> &nbsp;DS Group — Dharampal Satyapal Ltd.
+**Strategy & Business Development Intern**
+`May 2026 – Jun 2026`
+
+Noida, India · On-site
+
+- Contributing to strategy and business development initiatives
+- Part of one of India's leading FMCG & diversified conglomerates
+
+![Strategy](https://img.shields.io/badge/Strategy_%26_Biz_Dev-4ade80?style=flat-square)
+![Noida](https://img.shields.io/badge/Noida_HQ-60a5fa?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 
 ### 🛰️ India Space Lab
@@ -312,23 +329,6 @@ VIT Vellore · Student Ambassador
 - Club design & branding
 
 ![Events](https://img.shields.io/badge/180%2B_Participants-fb923c?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center" valign="top">
-
-### 🏢 DS Group — Dharampal Satyapal Ltd.
-**Strategy & Business Development Intern**
-`May 2026 – Jun 2026`
-
-Noida, India · On-site
-
-- Contributing to strategy and business development initiatives
-- Part of one of India's leading FMCG & diversified conglomerates
-
-![Strategy](https://img.shields.io/badge/Strategy_%26_Biz_Dev-4ade80?style=flat-square)
-![Noida](https://img.shields.io/badge/Noida_HQ-60a5fa?style=flat-square)
 
 </td>
 </tr>
