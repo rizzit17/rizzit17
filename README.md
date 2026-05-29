@@ -33,7 +33,7 @@
 const rishit: Developer = {
   name:      "Rishit Chaudhary",
   education: "B.Tech CSE (IoT) @ VIT Vellore",
-  cgpa:      8.60,
+  cgpa:      8.68,
   location:  "Noida, India",
   year:      "3rd Year · Batch of 2027",
 
