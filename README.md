@@ -35,7 +35,7 @@ const rishit: Developer = {
   education: "B.Tech CSE (IoT) @ VIT Vellore",
   cgpa:      8.68,
   location:  "Noida, India",
-  year:      "3rd Year · Batch of 2027",
+  year:      "Pre final Year · Batch of 2027",
 
   roles: [
     "Full-Stack Developer",
@@ -59,7 +59,7 @@ const rishit: Developer = {
 - 🌱 Deepening expertise in **cloud architecture, LLM integrations & IoT systems**
 - 🧩 Strong CS fundamentals — DSA, OS, Computer Networks, OOPs
 - 🏆 Impacted **200+ students** through campus leadership & AI workshops
-- 🛰️ Winter Intern @ **India Space Lab** — Space Tech & Remote Sensing
+- 🛰️ Strategy & Business Development Intern @ **DS Group**
 - 💬 Ask me about **React, Node.js, LangChain or AI integrations**
 
 <br/>
