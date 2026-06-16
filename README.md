@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-chaudhary17)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=black)](https://rishit-cv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=black)](https://rishucv.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizzit17)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitwork28@gmail.com)
 
@@ -386,7 +386,7 @@ Clean Code  +  Scalable Architecture  +  AI-Powered Features  =  🚀
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-chaudhary17)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=black)](https://rishit-cv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=black)](https://rishucv.vercel.app/)
 [![Email](https://img.shields.io/badge/Drop_a_Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitwork28@gmail.com)
 
 <br/>
