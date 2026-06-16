@@ -65,22 +65,60 @@ const rishit: Developer = {
 
 ---
 
-## ⚡ Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"/> &nbsp;Tech Arsenal
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **AI / LLMs** | ![Groq](https://img.shields.io/badge/-Groq_LLaMA_3-F55036?style=flat-square&logo=meta&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+#### 💻 Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+
+#### 🎨 Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### ⚙️ Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+
+#### 🤖 AI / ML & LLMs
+[![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini)
+[![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3_70B-F55036?style=for-the-badge&logo=meta&logoColor=white)](https://groq.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+
+#### 🌾 IoT & Real-Time
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://mqtt.org)
+[![HiveMQ](https://img.shields.io/badge/HiveMQ_Cloud-FFA500?style=for-the-badge&logoColor=white)](https://www.hivemq.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+#### 💾 Databases & Auth
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+
+#### ☁️ Cloud & DevOps
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 </div>
 
 <br/>
+
 
 ---
 
@@ -110,18 +148,19 @@ Interactive simulator generating **role-personalized workplace bias scenarios** 
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 SmartAgri — IoT Precision Farming
-[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
+### 🎮 PrepAI — AI Interview Simulator
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PrepAI)
 
-IoT farming system with real-time **MQTT sensor ingestion** via HiveMQ. Utilizes a Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
+A gamified mock interview simulator with AI-generated questions and instant multi-dimensional feedback. Features an XP tracking system and leveling mechanics to build interview confidence.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ Meetzy — AI Meeting Platform
-[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/smartmeeting)
+### 🌾 SmartAgri — IoT Precision Farming
+[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
-Full-stack platform with **real-time transcription** and automated summaries. GPT-4 automatically extracts key insights, decisions, and action items, reducing manual note-taking by 70%.
+IoT farming system with real-time **MQTT sensor ingestion** via HiveMQ. Utilizes a Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
 
 </td>
 </tr>
@@ -137,7 +176,25 @@ Upload complex legal PDFs and get instant **risk classification, missing clause 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Developer Portfolio
+### 🛡️ ModelGuard — Security Scanner
+[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
+
+Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for **RCE vectors** via pickle bytecode disassembly, Trail of Bits' fickling, YARA rules and HuggingFace integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 DupSense — Smart Duplicate Finder
+[![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+
+Duplicate detection utility using **MD5 hashing** for exact matches and **perceptual hashing (pHash)** for visually similar images. Features intelligent grouping and safe quarantine mode.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 VS Code Portfolio
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://rishucv.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View_Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/updated_portfolio)
 
