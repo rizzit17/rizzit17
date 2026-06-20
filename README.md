@@ -208,18 +208,40 @@ A premium, highly-interactive digital portfolio built with **React, Framer Motio
 
 ---
 
-## 📈 GitHub Analytics 
+## 📈 GitHub Analytics
 
-<div align="center"> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&bg_color=0C0C0C&title_color=4EDEA3&icon_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&count_private=true" alt="GitHub Stats"/> 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=rizzit17&background=0C0C0C&stroke=1f1f1f&ring=4EDEA3&fire=4EDEA3&currStreakNum=e5e2e1&sideNums=e5e2e1&currStreakLabel=e5e2e1&sideLabels=e5e2e1&dates=bbcabf&border=1f1f1f" alt="GitHub Streak"/>
- 
-  <br/> 
-  <!-- Replaced the public URL with your private Vercel instance -->
-  <img width="98%" src="https://github-readme-activity-graph-vert.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&border=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/> 
-</div> 
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- GitHub Stats Card -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&bg_color=0C0C0C&title_color=4EDEA3&icon_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+
+</td>
+<td valign="top" width="50%">
+
+<!-- Most Used Languages Card -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzit17&layout=donut&bg_color=0C0C0C&title_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&langs_count=6" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
+<!-- GitHub Streak Stats — matches the center panel in the image -->
+<img width="60%" src="https://streak-stats.demolab.com/?user=rizzit17&background=0C0C0C&stroke=1f1f1f&ring=4EDEA3&fire=4EDEA3&currStreakNum=4EDEA3&sideNums=e5e2e1&currStreakLabel=e5e2e1&sideLabels=e5e2e1&dates=bbcabf&border=1f1f1f" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
 
 ---
 
