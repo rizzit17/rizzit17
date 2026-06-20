@@ -86,7 +86,7 @@ const rishit: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,python,typescript,mongodb,firebase,aws,vercel,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,python,typescript,mongodb,firebase,vercel,git&theme=dark"/>
 
 </div>
 
@@ -105,7 +105,6 @@ const rishit: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
