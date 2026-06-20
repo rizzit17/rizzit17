@@ -8,10 +8,7 @@
   <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=flat-square&labelColor=131313"/>
 </p>
 
-<p>
-  Full-stack engineer who leans heavily into AI integrations — LLMs, RAG pipelines, ML inference at the edge.<br/>
-  I build products end-to-end, care about the UI layer as much as the architecture underneath.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%7C+AI%2FLLM+integrations;Building+RAG+pipelines+%26+edge+ML;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
 
 <p>
   <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -31,11 +28,26 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=flat-square"/>
 </p>
 
+<a href="https://mapmyvisitors.com/web/rishitcv">
+  <img src="https://mapmyvisitors.com/map.png?d=rishitcv&l=0" alt="Visitor Map" width="500"/>
+</a>
+
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 ## About Me
+
+```bash
+rishit@vit:~$ whoami
+> full-stack engineer · AI/LLM integrations · IoT
+rishit@vit:~$ cat status.txt
+> open to work | building O2R Recommendation Engine | batch 2027
+rishit@vit:~$ uptime
+> debugging since 2AM, calling it peak focus
+```
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -73,9 +85,22 @@ const rishit: Developer = {
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 ## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,python,typescript,mongodb,firebase,aws,vercel,git&theme=dark"/>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>Full breakdown by category</b></summary>
+
+<br/>
 
 <div align="center">
 
@@ -126,9 +151,11 @@ const rishit: Developer = {
 
 </div>
 
+</details>
+
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 ## Projects
 
@@ -239,7 +266,7 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 ## GitHub Analytics
 
@@ -264,7 +291,7 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 <div align="center">
 
