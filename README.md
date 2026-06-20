@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-4EDEA3?style=flat-square&labelColor=131313"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=flat-square&labelColor=131313"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.68-4EDEA3?style=flat-square&labelColor=131313"/>
 </p>
 
 <p>
@@ -134,93 +132,110 @@ const rishit: Developer = {
 
 ## Projects
 
-> Two that I'm most proud of, then the rest.
-
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 📁 DupSense — Smart Duplicate Finder
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://github.com/rizzit17/DupSense)
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+
+Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
+
+`Python` `MD5` `pHash` `File Systems`
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔍 VoidCheck — AI Code Review
 
-[![Live](https://img.shields.io/badge/Live-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
 
-Paste code or a GitHub URL, get back health scores, bug detection, and security analysis. Powered by Groq LLaMA 3.3 70B via LangChain. Full-stack, deployed, actually works.
+Full-stack AI code review platform. Paste code or a GitHub URL and get instant health scores, bug detection, and security analysis powered by Groq LLaMA 3.3 70B via LangChain.
 
 `React` `Node.js` `LangChain` `Groq` `Vercel`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📜 VeriLex — Legal Doc Analyzer
 
-[![Live](https://img.shields.io/badge/Live-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
 
-Upload a legal PDF, get risk classification, missing clause detection, and obligation breakdowns — Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
+Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns — Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
 
 `React` `FastAPI` `Gemini 1.5` `PDF parsing`
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>More projects →</b></summary>
-
-<br/>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
-**⚡ BreakBias** — Workplace bias simulator with role-personalized scenarios via Gemini. Multi-axis rubric evaluator scoring communication, assertiveness, risk.
-[![Live](https://img.shields.io/badge/Live-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://break-bias.vercel.app/)
+### ⚡ BreakBias — Workplace Simulator
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://break-bias.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/BreakBias)
 
+Interactive simulator generating role-personalized workplace bias scenarios via Gemini API. Multi-axis rubric evaluator scoring communication, assertiveness, and risk.
+
+`React` `Vite` `Gemini API` `Tailwind` `Framer Motion`
+
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**🎮 PrepAI** — Gamified mock interview simulator with AI-generated questions, XP tracking, and multi-dimensional feedback per answer.
-[![Live](https://img.shields.io/badge/Live-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
+### 🎮 PrepAI — AI Interview Simulator
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PrepAI)
 
+Gamified mock interview simulator with AI-generated questions and instant multi-dimensional feedback. XP tracking system and leveling mechanics to build interview confidence.
+
+`React` `Node.js` `AI APIs` `Gamification`
+
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**🌾 SmartAgri** — IoT precision farming with real-time MQTT ingestion via HiveMQ. Random Forest model (2200+ samples) for crop recommendation.
+### 🌾 SmartAgri — IoT Precision Farming
+
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
-</td>
-<td width="50%" valign="top">
+IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
 
-**🛡️ ModelGuard** — Static scanner for AI model files (`.pkl`, `.pt`, `.bin`). Detects RCE vectors via pickle bytecode disassembly, fickling, and YARA rules.
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
+`ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📁 DupSense** — Duplicate file finder using MD5 for exact matches and pHash for visually similar images. Quarantine mode included.
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+### 🛡️ ModelGuard — ML Security Scanner
+
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
+
+Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vectors via pickle bytecode disassembly, Trail of Bits' fickling, YARA rules and HuggingFace integration.
+
+`Python` `fickling` `YARA` `pickle` `HuggingFace`
 
 </td>
 <td width="50%" valign="top">
 
-**💻 VS Code Portfolio** — Interactive portfolio built with React, Framer Motion, and GSAP. CardSwap mechanics, glassmorphism UI.
-[![Live](https://img.shields.io/badge/Live-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://rishucv.vercel.app/)
+### 💻 VS Code Portfolio
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://rishucv.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/updated_portfolio)
+
+Interactive portfolio built with React, Framer Motion, and GSAP. Features custom CardSwap mechanics, glassmorphism UI, and ultra-smooth animations throughout.
+
+`React` `Framer Motion` `GSAP` `TailwindCSS`
 
 </td>
 </tr>
 </table>
-
-</details>
 
 <br/>
 
@@ -230,18 +245,10 @@ Upload a legal PDF, get risk classification, missing clause detection, and oblig
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&bg_color=0C0C0C&title_color=4EDEA3&icon_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
-</td>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzit17&layout=donut&bg_color=0C0C0C&title_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&langs_count=6" alt="Most Used Languages"/>
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&bg_color=0C0C0C&title_color=4EDEA3&icon_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzit17&layout=donut&bg_color=0C0C0C&title_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&langs_count=6" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
 <img width="60%" src="https://streak-stats.demolab.com/?user=rizzit17&background=0C0C0C&stroke=1f1f1f&ring=4EDEA3&fire=4EDEA3&currStreakNum=4EDEA3&sideNums=e5e2e1&currStreakLabel=e5e2e1&sideLabels=e5e2e1&dates=bbcabf&border=1f1f1f" alt="GitHub Streak"/>
 
