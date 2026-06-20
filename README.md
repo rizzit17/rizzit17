@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=flat-square"/>
 </p>
 
-<a href="https://mapmyvisitors.com/web/rishitcv">
-  <img src="https://mapmyvisitors.com/map.png?d=rishitcv&l=0" alt="Visitor Map" width="500"/>
-</a>
-
 </div>
 
 <br/>
@@ -44,9 +40,8 @@
 rishit@vit:~$ whoami
 > full-stack engineer · AI/LLM integrations · IoT
 rishit@vit:~$ cat status.txt
-> open to work | building O2R Recommendation Engine | batch 2027
+> open to work | batch 2027
 rishit@vit:~$ uptime
-> debugging since 2AM, calling it peak focus
 ```
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -78,7 +73,7 @@ const rishit: Developer = {
 
 <br clear="right"/>
 
-- Interned at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
+- Intern at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
 - Active in **IEEE Computer Society VIT** and **Pixelate Design Club**; contributed to open source via GSSoC
 - Play football at district level — yes, it shows in how I approach system design (positional awareness matters)
 - Currently focused on ML deployment at scale and agentic AI architectures
