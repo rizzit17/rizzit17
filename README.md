@@ -3,9 +3,9 @@
 <h1>Rishit Chaudhary</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-4EDEA3?style=flat-square&labelColor=131313"/>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=flat-square&labelColor=131313"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=flat-square&labelColor=131313"/>
+  <img src="https://img.shields.io/badge/Batch-2027-047857?style=flat-square&labelColor=131313"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%7C+AI%2FLLM+integrations;Building+RAG+pipelines+%26+edge+ML;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
@@ -21,12 +21,16 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=4EDEA3&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=4EDEA3"/>
+  <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-047857?style=flat-square"/>
 </p>
+
+<a href="https://mapmyvisitors.com/web/rishitcv">
+  <img src="https://mapmyvisitors.com/map.png?d=rishitcv&l=0" alt="Visitor Map" width="500"/>
+</a>
 
 </div>
 
@@ -40,8 +44,9 @@
 rishit@vit:~$ whoami
 > full-stack engineer · AI/LLM integrations · IoT
 rishit@vit:~$ cat status.txt
-> open to work | batch 2027
+> open to work | building O2R Recommendation Engine | batch 2027
 rishit@vit:~$ uptime
+> debugging since 2AM, calling it peak focus
 ```
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -73,7 +78,7 @@ const rishit: Developer = {
 
 <br clear="right"/>
 
-- Intern at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
+- Interned at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
 - Active in **IEEE Computer Society VIT** and **Pixelate Design Club**; contributed to open source via GSSoC
 - Play football at district level — yes, it shows in how I approach system design (positional awareness matters)
 - Currently focused on ML deployment at scale and agentic AI architectures
@@ -86,7 +91,7 @@ const rishit: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,python,typescript,mongodb,firebase,vercel,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,python,typescript,mongodb,firebase,aws,vercel,git&theme=dark"/>
 
 </div>
 
@@ -105,6 +110,7 @@ const rishit: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
@@ -157,7 +163,7 @@ const rishit: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 📁 DupSense : Smart Duplicate Finder
+### 📁 DupSense — Smart Duplicate Finder
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://github.com/rizzit17/DupSense)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
@@ -169,7 +175,7 @@ Duplicate detection utility using MD5 hashing for exact matches and perceptual h
 </td>
 <td width="50%" valign="top">
 
-### 🔍 VoidCheck : AI Code Review
+### 🔍 VoidCheck — AI Code Review
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
@@ -183,7 +189,7 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 <tr>
 <td width="50%" valign="top">
 
-### 📜 VeriLex : Legal Doc Analyzer
+### 📜 VeriLex — Legal Doc Analyzer
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
@@ -195,7 +201,7 @@ Upload a legal PDF and get risk classification, missing clause detection, and ob
 </td>
 <td width="50%" valign="top">
 
-### ⚡ BreakBias : Workplace Simulator
+### ⚡ BreakBias — Workplace Simulator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://break-bias.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/BreakBias)
@@ -209,7 +215,7 @@ Interactive simulator generating role-personalized workplace bias scenarios via 
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 PrepAI : AI Interview Simulator
+### 🎮 PrepAI — AI Interview Simulator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PrepAI)
@@ -221,7 +227,7 @@ Gamified mock interview simulator with AI-generated questions and instant multi-
 </td>
 <td width="50%" valign="top">
 
-### 🌾 SmartAgri : IoT Precision Farming
+### 🌾 SmartAgri — IoT Precision Farming
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
@@ -234,7 +240,7 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ModelGuard : ML Security Scanner
+### 🛡️ ModelGuard — ML Security Scanner
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
 
