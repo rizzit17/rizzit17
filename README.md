@@ -157,7 +157,7 @@ const rishit: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 📁 DupSense — Smart Duplicate Finder
+### 📁 DupSense : Smart Duplicate Finder
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://github.com/rizzit17/DupSense)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
@@ -169,7 +169,7 @@ Duplicate detection utility using MD5 hashing for exact matches and perceptual h
 </td>
 <td width="50%" valign="top">
 
-### 🔍 VoidCheck — AI Code Review
+### 🔍 VoidCheck : AI Code Review
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
@@ -183,7 +183,7 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 <tr>
 <td width="50%" valign="top">
 
-### 📜 VeriLex — Legal Doc Analyzer
+### 📜 VeriLex : Legal Doc Analyzer
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
@@ -195,7 +195,7 @@ Upload a legal PDF and get risk classification, missing clause detection, and ob
 </td>
 <td width="50%" valign="top">
 
-### ⚡ BreakBias — Workplace Simulator
+### ⚡ BreakBias : Workplace Simulator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://break-bias.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/BreakBias)
@@ -209,7 +209,7 @@ Interactive simulator generating role-personalized workplace bias scenarios via 
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 PrepAI — AI Interview Simulator
+### 🎮 PrepAI : AI Interview Simulator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PrepAI)
@@ -221,7 +221,7 @@ Gamified mock interview simulator with AI-generated questions and instant multi-
 </td>
 <td width="50%" valign="top">
 
-### 🌾 SmartAgri — IoT Precision Farming
+### 🌾 SmartAgri : IoT Precision Farming
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
@@ -234,7 +234,7 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ModelGuard — ML Security Scanner
+### 🛡️ ModelGuard : ML Security Scanner
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
 
