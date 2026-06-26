@@ -41,7 +41,6 @@ rishit@vit:~$ whoami
 > full-stack engineer · AI/LLM integrations · IoT
 rishit@vit:~$ cat status.txt
 > open to work | batch 2027
-rishit@vit:~$ uptime
 ```
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -65,9 +64,6 @@ const rishit: Developer = {
     ai:       ["Groq LLaMA 3", "Gemini 1.5", "LangChain"],
     cloud:    ["AWS", "Vercel", "Render"]
   },
-
-  currentFocus: "Architecting high-performance web apps & AI tooling",
-  funFact:      "I debug at 2AM and call it peak focus 🌙",
 };
 ```
 
@@ -75,7 +71,7 @@ const rishit: Developer = {
 
 - Intern at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
 - Active in **IEEE Computer Society VIT** and **Pixelate Design Club**; contributed to open source via GSSoC
-- Play football at district level — yes, it shows in how I approach system design (positional awareness matters)
+- Play football at district level - yes, it shows in how I approach system design (positional awareness matters)
 - Currently focused on ML deployment at scale and agentic AI architectures
 
 <br/>
