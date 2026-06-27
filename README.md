@@ -183,7 +183,7 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
 
-Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns — Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
+Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns - Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
 
 `React` `FastAPI` `Gemini 1.5` `PDF parsing`
 
