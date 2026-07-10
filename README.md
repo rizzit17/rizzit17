@@ -2,24 +2,21 @@
 
 # Rishit Chaudhary
 
-### Full-Stack Engineer · AI/LLM Integrations · Builder of things that ship
+### Full-Stack Engineer · AI/LLM Integrations · AI Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+agentic+AI;Shipping+full-stack+products+solo;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
 
-<br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
 <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=131313"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=131313"/>
 
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
 <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
