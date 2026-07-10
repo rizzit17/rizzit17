@@ -1,11 +1,15 @@
 <div align="center">
 
-<h1>Rishit Chaudhary</h1>
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+
+<h1>Hi, I'm Rishit 👋</h1>
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=flat-square&labelColor=131313"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Batch-2027-047857?style=flat-square&labelColor=131313"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=flat-square&labelColor=131313"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%7C+AI%2FLLM+integrations;Building+RAG+pipelines+%26+edge+ML;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
@@ -24,19 +28,36 @@
   <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-047857?style=flat-square"/>
 </p>
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ## About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+I'm a pre-final year CSE (IoT) student who ended up specializing in full-stack + applied ML — mostly because every project I start turns into "wait, could an LLM do this part better?"
+
+Right now I'm split between:
+
+- 🔭 **Building** — RAG pipelines, agentic tools, and ML systems that actually ship (not just notebooks)
+- 🧠 **Interning** at **DS Group** (Strategy & Business Dev) — logistics analytics and demand forecasting for retail ops
+- 🎨 **Designing** at **Pixelate Design Club** and organizing with **IEEE Computer Society VIT**
+- 🌱 **Contributing** to open source via **GSSoC**
+- ⚽ Played football at district level — turns out positional awareness transfers surprisingly well to system design
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+</td>
+</tr>
+</table>
 
 ```typescript
 const rishit: Developer = {
@@ -55,19 +76,10 @@ const rishit: Developer = {
     frontend: ["React", "Vite", "TailwindCSS", "Framer Motion"],
     backend:  ["Node.js", "Express", "FastAPI"],
     ai:       ["Groq LLaMA 3", "Gemini 1.5", "LangChain"],
-    cloud:    ["AWS", "Vercel", "Render"]
+    cloud:    ["AWS", "Vercel", "Render"],
   },
 };
 ```
-
-<br clear="right"/>
-
-- Intern at **DS Group** (Strategy & Business Dev) building internal logistics analytics platforms and ML-based forecasting tools
-- Active in **IEEE Computer Society VIT** and **Pixelate Design Club**; contributed to open source via GSSoC
-- Play football at district level - yes, it shows in how I approach system design (positional awareness matters)
-- Currently focused on ML deployment at scale and agentic AI architectures
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
@@ -82,22 +94,23 @@ const rishit: Developer = {
 <br/>
 
 <details>
-<summary><b>Full breakdown by category</b></summary>
-
+<summary><b>🔧 Full breakdown by category</b></summary>
 <br/>
 
 <div align="center">
 
 **Languages**
-
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
+<br/>
 
+**Frontend**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -105,8 +118,10 @@ const rishit: Developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
+<br/>
 
+**Backend & Databases**
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -114,8 +129,10 @@ const rishit: Developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI / ML**
+<br/>
 
+**AI / ML**
+<br/>
 ![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square&logo=meta&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -123,8 +140,10 @@ const rishit: Developer = {
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**IoT & Cloud**
+<br/>
 
+**IoT & Cloud**
+<br/>
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-FFA500?style=flat-square&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -135,26 +154,32 @@ const rishit: Developer = {
 
 </details>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
-## Projects
+## Featured Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 📁 DupSense : Smart Duplicate Finder
+### 📞 O2R : Retailer Order Prediction
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://github.com/rizzit17/DupSense)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
 
-Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
+An ML system optimizing outbound call-centre operations by predicting retailer order probability — built on a temporal grid of thousands of retailers across months of order history, with strict lag windowing to prevent leakage. XGBoost/CatBoost ensemble under the hood, wrapped in a Streamlit dashboard with live SHAP explainability so ops teams can see *why* a retailer scored the way it did.
 
-`Python` `MD5` `pHash` `File Systems`
+`Python` `XGBoost` `CatBoost` `Streamlit` `SHAP` `Plotly`
 
 </td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+
+## Other Projects
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 VoidCheck : AI Code Review
@@ -167,8 +192,6 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 `React` `Node.js` `LangChain` `Groq` `Vercel`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📜 VeriLex : Legal Doc Analyzer
@@ -176,11 +199,13 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
 
-Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns - Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
+Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns — Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
 
-`React` `FastAPI` `Gemini 1.5` `PDF parsing`
+`React` `FastAPI` `Gemini 1.5` `PDF Parsing`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚡ BreakBias : Workplace Simulator
@@ -193,8 +218,6 @@ Interactive simulator generating role-personalized workplace bias scenarios via 
 `React` `Vite` `Gemini API` `Tailwind` `Framer Motion`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎮 PrepAI : AI Interview Simulator
@@ -207,6 +230,8 @@ Gamified mock interview simulator with AI-generated questions and instant multi-
 `React` `Node.js` `AI APIs` `Gamification`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌾 SmartAgri : IoT Precision Farming
@@ -218,8 +243,6 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 `ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ ModelGuard : ML Security Scanner
@@ -231,6 +254,32 @@ Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vec
 `Python` `fickling` `YARA` `pickle` `HuggingFace`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 DupSense : Smart Duplicate Finder
+
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+
+Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
+
+`Python` `MD5` `pHash` `File Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ MalScan++ : Static Malware Analysis
+
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/malscanplusplus)
+
+High-performance, dual-execution static malware analysis engine. Detects packed payloads via Shannon entropy and utilizes a pluggable heuristic risk engine without executing the files.
+
+`C++20` `CMake` `cpp-httplib` `Static Analysis`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💻 VS Code Portfolio
@@ -243,34 +292,11 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 `React` `Framer Motion` `GSAP` `TailwindCSS`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
-### 🛡️ MalScan++ : Static Malware Analysis
-
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/malscanplusplus)
-
-High-performance, dual-execution static malware analysis engine. Detects packed payloads via Shannon entropy and utilizes a pluggable heuristic risk engine without executing the files.
-
-`C++20` `CMake` `cpp-httplib` `Static Analysis`
-
-</td>
-<td width="50%" valign="top">
-
-### 📞 O2R : Retailer Order Prediction
-
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
-
-Machine learning system optimizing outbound call centre operations by predicting retailer order probabilities. Features a responsive Streamlit dashboard with interactive SHAP explainability.
-
-`Python` `XGBoost` `Streamlit` `SHAP` `Plotly`
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
@@ -281,12 +307,13 @@ Machine learning system optimizing outbound call centre operations by predicting
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-<br/>
+
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+
 <div align="center">
 
-Open to full-time roles, internships, and interesting builds. If you've read this far, let's talk.
+### Open to full-time roles, internships, and interesting builds.
+If you've read this far, let's talk.
 
 <br/>
 
