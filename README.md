@@ -1,59 +1,53 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+# Rishit Chaudhary
 
-<h1>Hi, I'm Rishit 👋</h1>
+### Full-Stack Engineer · AI/LLM Integrations · Builder of things that ship
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=flat-square&labelColor=131313"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Batch-2027-047857?style=flat-square&labelColor=131313"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=flat-square&labelColor=131313"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+agentic+AI;Shipping+full-stack+products+solo;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%7C+AI%2FLLM+integrations;Building+RAG+pipelines+%26+edge+ML;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
-  &nbsp;
-  <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
+<img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=131313"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=131313"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
-</p>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
+<a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+<br/>
+
+## About Me
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-## About Me
+<td width="62%" valign="top">
 
 I'm a pre-final year CSE (IoT) student who ended up specializing in full-stack + applied ML — mostly because every project I start turns into "wait, could an LLM do this part better?"
 
 Right now I'm split between:
 
-- 🔭 **Building** — RAG pipelines, agentic tools, and ML systems that actually ship (not just notebooks)
+- 🔭 **Building** — RAG pipelines, agentic tools, and ML systems that actually ship, not just live in notebooks
 - 🧠 **Interning** at **DS Group** (Strategy & Business Dev) — logistics analytics and demand forecasting for retail ops
 - 🎨 **Designing** at **Pixelate Design Club** and organizing with **IEEE Computer Society VIT**
 - 🌱 **Contributing** to open source via **GSSoC**
-- ⚽ Played football at district level — turns out positional awareness transfers surprisingly well to system design
+- ⚽ Played football at district level — positional awareness transfers surprisingly well to system design
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
-<img alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 </td>
 </tr>
@@ -81,7 +75,7 @@ const rishit: Developer = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+<br/>
 
 ## Stack
 
@@ -154,32 +148,23 @@ const rishit: Developer = {
 
 </details>
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+<br/>
 
-## Featured Build
+## Projects
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 📞 O2R : Retailer Order Prediction
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
 
-An ML system optimizing outbound call-centre operations by predicting retailer order probability — built on a temporal grid of thousands of retailers across months of order history, with strict lag windowing to prevent leakage. XGBoost/CatBoost ensemble under the hood, wrapped in a Streamlit dashboard with live SHAP explainability so ops teams can see *why* a retailer scored the way it did.
+ML system optimizing outbound call-centre operations by predicting retailer order probability. Temporal feature grid with strict lag windowing, XGBoost/CatBoost ensemble, Streamlit dashboard with live SHAP explainability.
 
-`Python` `XGBoost` `CatBoost` `Streamlit` `SHAP` `Plotly`
+`Python` `XGBoost` `Streamlit` `SHAP` `Plotly`
 
 </td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
-
-## Other Projects
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 VoidCheck : AI Code Review
@@ -192,6 +177,8 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 `React` `Node.js` `LangChain` `Groq` `Vercel`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📜 VeriLex : Legal Doc Analyzer
@@ -204,8 +191,6 @@ Upload a legal PDF and get risk classification, missing clause detection, and ob
 `React` `FastAPI` `Gemini 1.5` `PDF Parsing`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ⚡ BreakBias : Workplace Simulator
@@ -215,9 +200,11 @@ Upload a legal PDF and get risk classification, missing clause detection, and ob
 
 Interactive simulator generating role-personalized workplace bias scenarios via Gemini API. Multi-axis rubric evaluator scoring communication, assertiveness, and risk.
 
-`React` `Vite` `Gemini API` `Tailwind` `Framer Motion`
+`React` `Vite` `Gemini API` `Tailwind`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 PrepAI : AI Interview Simulator
@@ -230,8 +217,6 @@ Gamified mock interview simulator with AI-generated questions and instant multi-
 `React` `Node.js` `AI APIs` `Gamification`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌾 SmartAgri : IoT Precision Farming
@@ -240,9 +225,11 @@ Gamified mock interview simulator with AI-generated questions and instant multi-
 
 IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
 
-`ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
+`ESP32` `MQTT` `HiveMQ` `scikit-learn`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ ModelGuard : ML Security Scanner
@@ -251,7 +238,18 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 
 Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vectors via pickle bytecode disassembly, Trail of Bits' fickling, YARA rules and HuggingFace integration.
 
-`Python` `fickling` `YARA` `pickle` `HuggingFace`
+`Python` `fickling` `YARA` `pickle`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ MalScan++ : Static Malware Analysis
+
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/malscanplusplus)
+
+High-performance, dual-execution static malware analysis engine. Detects packed payloads via Shannon entropy with a pluggable heuristic risk engine, without executing the files.
+
+`C++20` `CMake` `cpp-httplib`
 
 </td>
 </tr>
@@ -264,22 +262,9 @@ Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vec
 
 Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
 
-`Python` `MD5` `pHash` `File Systems`
+`Python` `MD5` `pHash`
 
 </td>
-<td width="50%" valign="top">
-
-### 🛡️ MalScan++ : Static Malware Analysis
-
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/malscanplusplus)
-
-High-performance, dual-execution static malware analysis engine. Detects packed payloads via Shannon entropy and utilizes a pluggable heuristic risk engine without executing the files.
-
-`C++20` `CMake` `cpp-httplib` `Static Analysis`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 VS Code Portfolio
@@ -289,16 +274,13 @@ High-performance, dual-execution static malware analysis engine. Detects packed 
 
 Interactive portfolio built with React, Framer Motion, and GSAP. Features custom CardSwap mechanics, glassmorphism UI, and ultra-smooth animations throughout.
 
-`React` `Framer Motion` `GSAP` `TailwindCSS`
-
-</td>
-<td width="50%" valign="top">
+`React` `Framer Motion` `GSAP`
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+<br/>
 
 ## GitHub Analytics
 [![Rishit's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham)](https://github.com/stats-organization/github-stats-extended)
@@ -308,19 +290,17 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-<img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
+<br/>
 
 <div align="center">
 
-### Open to full-time roles, internships, and interesting builds.
+### Open to full-time roles, internships, and interesting builds
 If you've read this far, let's talk.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-chaudhary17)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313)](https://rishucv.vercel.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitwork28@gmail.com)
+<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
+<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
