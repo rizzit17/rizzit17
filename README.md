@@ -19,7 +19,6 @@
 <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
 <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
 
@@ -32,17 +31,6 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="top">
-
-I'm a pre-final year CSE (IoT) student who ended up specializing in full-stack + applied ML — mostly because every project I start turns into "wait, could an LLM do this part better?"
-
-Right now I'm split between:
-
-- 🔭 **Building** — RAG pipelines, agentic tools, and ML systems that actually ship, not just live in notebooks
-- 🧠 **Interning** at **DS Group** (Strategy & Business Dev) — logistics analytics and demand forecasting for retail ops
-- 🎨 **Designing** at **Pixelate Design Club** and organizing with **IEEE Computer Society VIT**
-- 🌱 **Contributing** to open source via **GSSoC**
-- ⚽ Played football at district level — positional awareness transfers surprisingly well to system design
-
 </td>
 <td width="38%" valign="top" align="center">
 
@@ -57,7 +45,7 @@ const rishit: Developer = {
   name:      "Rishit Chaudhary",
   education: "B.Tech CSE (IoT) @ VIT Vellore",
   location:  "Noida, India",
-  year:      "Pre-final Year · Batch of 2027",
+  year:      "Final Year · Batch of 2027",
 
   roles: [
     "Full-Stack Engineer",
@@ -185,7 +173,7 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
 
-Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns — Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
+Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns - Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
 
 `React` `FastAPI` `Gemini 1.5` `PDF Parsing`
 
