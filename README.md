@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+agentic+AI;Shipping+full-stack+products+solo;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
 
+<br>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
 <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=131313"/>
