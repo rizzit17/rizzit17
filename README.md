@@ -54,8 +54,6 @@ const rishit: Developer = {
     cloud:    ["AWS", "Vercel", "Render"],
   },
 };
-```
- 
 </td>
 <td width="35%" valign="top" align="center">
 <img alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
