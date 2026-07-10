@@ -30,7 +30,7 @@
 
 I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** passionate about **Full-Stack Development**, **AI/ML**, and **LLM-powered applications**.
 
-<table>
+<table align="center">
 <tr>
 <td width="65%" valign="top">
 
