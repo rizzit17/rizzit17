@@ -27,32 +27,26 @@
 <br/>
 
 ## About Me
+ 
+I'm a Final year CSE (IoT) student who ended up specializing in full-stack + applied ML engineering.
 
+<br/>
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
-</td>
-<td width="38%" valign="top" align="center">
-
-<img alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-</td>
-</tr>
-</table>
-
+<td width="65%" valign="top">
 ```typescript
 const rishit: Developer = {
   name:      "Rishit Chaudhary",
   education: "B.Tech CSE (IoT) @ VIT Vellore",
   location:  "Noida, India",
-  year:      "Final Year · Batch of 2027",
-
+  year:      "Pre-final Year · Batch of 2027",
+ 
   roles: [
     "Full-Stack Engineer",
     "AI/LLM Integration Specialist",
     "UI/UX Designer",
   ],
-
+ 
   coreTech: {
     frontend: ["React", "Vite", "TailwindCSS", "Framer Motion"],
     backend:  ["Node.js", "Express", "FastAPI"],
@@ -61,7 +55,13 @@ const rishit: Developer = {
   },
 };
 ```
-
+ 
+</td>
+<td width="35%" valign="top" align="center">
+<img alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</td>
+</tr>
+</table>
 <br/>
 
 ## Stack
