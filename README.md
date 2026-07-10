@@ -26,38 +26,42 @@
 
 <br/>
 
-## About Me
- 
-I'm a Final year CSE (IoT) student who ended up specializing in full-stack + applied ML engineering.
+## 👨‍💻 About Me
 
-<br/>
-<table width="100%">
+I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** passionate about **Full-Stack Development**, **AI/ML**, and **LLM-powered applications**.
+
+<table>
 <tr>
 <td width="65%" valign="top">
-'''
+
+```ts
 const rishit: Developer = {
-  name:      "Rishit Chaudhary",
+  name: "Rishit Chaudhary",
   education: "B.Tech CSE (IoT) @ VIT Vellore",
-  location:  "Noida, India",
-  year:      "Pre-final Year · Batch of 2027",
- 
+  location: "Noida, India",
+  year: "Final Year · Batch of 2027",
+
   roles: [
     "Full-Stack Engineer",
     "AI/LLM Integration Specialist",
     "UI/UX Designer",
   ],
- 
+
   coreTech: {
     frontend: ["React", "Vite", "TailwindCSS", "Framer Motion"],
-    backend:  ["Node.js", "Express", "FastAPI"],
-    ai:       ["Groq LLaMA 3", "Gemini 1.5", "LangChain"],
-    cloud:    ["AWS", "Vercel", "Render"],
+    backend: ["Node.js", "Express", "FastAPI"],
+    ai: ["Groq LLaMA 3", "Gemini", "LangChain"],
+    cloud: ["AWS", "Vercel", "Render"],
   },
 };
-'''
+```
+
 </td>
-<td width="35%" valign="top" align="center">
-<img alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240"/>
+
 </td>
 </tr>
 </table>
