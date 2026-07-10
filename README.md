@@ -275,7 +275,7 @@ Machine learning system optimizing outbound call centre operations by predicting
 <img src="https://raw.githubusercontent.com/rizzit17/rizzit17/main/assets/pixel-divider.svg" width="100%" alt="divider"/>
 
 ## GitHub Analytics
-[![Rishit's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzit17)](https://github.com/stats-organization/github-stats-extended)
+[![Rishit's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham)](https://github.com/stats-organization/github-stats-extended)
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizzit17&show_icons=true&bg_color=0C0C0C&title_color=4EDEA3&icon_color=4EDEA3&text_color=e5e2e1&border_color=1f1f1f&count_private=true&rank_icon=github" alt="GitHub Stats"/>
