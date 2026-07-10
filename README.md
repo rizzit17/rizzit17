@@ -283,9 +283,23 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 <br/>
 
 ## GitHub Analytics
-[![Rishit's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham)](https://github.com/stats-organization/github-stats-extended)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak" /></a>
-<br/><br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" align="center">
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham" alt="Rishit's GitHub stats"/></a>
+</td>
+<td valign="top" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak"/></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
