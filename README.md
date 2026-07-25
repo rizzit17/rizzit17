@@ -1,8 +1,6 @@
 <div align="center">
 
-# Rishit Chaudhary
-
-### Full-Stack Engineer · AI/LLM Integrations · AI Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=220&section=header&text=Rishit%20Chaudhary&fontSize=60&fontColor=4EDEA3&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FLLM%20Integrations%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+agentic+AI;Shipping+full-stack+products+solo;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
 
@@ -17,6 +15,7 @@
 <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
 <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
@@ -171,44 +170,6 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 <tr>
 <td width="50%" valign="top">
 
-### 📜 VeriLex : Legal Doc Analyzer
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://veri-lex.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VeriLex)
-
-Upload a legal PDF and get risk classification, missing clause detection, and obligation breakdowns - Gemini 1.5 Flash under the hood, zero-persistence architecture for privacy.
-
-`React` `FastAPI` `Gemini 1.5` `PDF Parsing`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ BreakBias : Workplace Simulator
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://break-bias.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/BreakBias)
-
-Interactive simulator generating role-personalized workplace bias scenarios via Gemini API. Multi-axis rubric evaluator scoring communication, assertiveness, and risk.
-
-`React` `Vite` `Gemini API` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 PrepAI : AI Interview Simulator
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://prep-ai-flame-eight.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PrepAI)
-
-Gamified mock interview simulator with AI-generated questions and instant multi-dimensional feedback. XP tracking system and leveling mechanics to build interview confidence.
-
-`React` `Node.js` `AI APIs` `Gamification`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌾 SmartAgri : IoT Precision Farming
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
@@ -218,8 +179,6 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 `ESP32` `MQTT` `HiveMQ` `scikit-learn`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ ModelGuard : ML Security Scanner
@@ -231,6 +190,8 @@ Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vec
 `Python` `fickling` `YARA` `pickle`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ MalScan++ : Static Malware Analysis
@@ -242,8 +203,6 @@ High-performance, dual-execution static malware analysis engine. Detects packed 
 `C++20` `CMake` `cpp-httplib`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📁 DupSense : Smart Duplicate Finder
@@ -253,18 +212,6 @@ High-performance, dual-execution static malware analysis engine. Detects packed 
 Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
 
 `Python` `MD5` `pHash`
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 VS Code Portfolio
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://rishucv.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/updated_portfolio)
-
-Interactive portfolio built with React, Framer Motion, and GSAP. Features custom CardSwap mechanics, glassmorphism UI, and ultra-smooth animations throughout.
-
-`React` `Framer Motion` `GSAP`
 
 </td>
 </tr>
@@ -298,6 +245,8 @@ Interactive portfolio built with React, Framer Motion, and GSAP. Features custom
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:0C0C0C&height=150&section=footer"/>
+
 ### Open to full-time roles, internships, and interesting builds
 If you've read this far, let's talk.
 
@@ -305,6 +254,7 @@ If you've read this far, let's talk.
 
 <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
+<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
