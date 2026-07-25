@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=220&section=header&text=Rishit%20Chaudhary&fontSize=60&fontColor=4EDEA3&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FLLM%20Integrations%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EDEA3&background=0C0C0C00&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+agentic+AI;Shipping+full-stack+products+solo;Debugging+at+2AM+and+calling+it+focus" alt="Typing SVG"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
@@ -27,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** passionate about **Full-Stack Development**, **AI/ML**, and **LLM-powered applications**.
+I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** passionate about **Data Analytics**, **AI/ML**, and **LLM-powered applications**.
 
 <table align="center">
 <tr>
@@ -41,7 +39,7 @@ const rishit: Developer = {
   year: "Final Year · Batch of 2027",
 
   roles: [
-    "Full-Stack Engineer",
+    "Data Analytics",
     "AI/LLM Integration Specialist",
     "UI/UX Designer",
   ],
