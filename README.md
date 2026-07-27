@@ -143,6 +143,17 @@ const rishit: Developer = {
 <tr>
 <td width="50%" valign="top">
 
+### 🗺️ Cartographer : Agentic Codebase Understanding & Refactor Engine
+
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
+
+Multi-agent AI system for repository understanding and autonomous refactoring. AST-derived code knowledge graph with hybrid graph + vector retrieval, Docker sandboxed code edits, and self-healing validation through an automated test-runner reflection loop.
+
+`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `pgvector` `Docker` `React`
+
+</td>
+<td width="50%" valign="top">
+
 ### 📞 O2R : Retailer Order Prediction
 
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
@@ -152,6 +163,8 @@ ML system optimizing outbound call-centre operations by predicting retailer orde
 `Python` `XGBoost` `Streamlit` `SHAP` `Plotly`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 VoidCheck : AI Code Review
@@ -162,19 +175,6 @@ ML system optimizing outbound call-centre operations by predicting retailer orde
 Full-stack AI code review platform. Paste code or a GitHub URL and get instant health scores, bug detection, and security analysis powered by Groq LLaMA 3.3 70B via LangChain.
 
 `React` `Node.js` `LangChain` `Groq` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 SmartAgri : IoT Precision Farming
-
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
-
-IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
-
-`ESP32` `MQTT` `HiveMQ` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
@@ -192,13 +192,13 @@ Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vec
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ MalScan++ : Static Malware Analysis
+### 🌾 SmartAgri : IoT Precision Farming
 
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/malscanplusplus)
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
-High-performance, dual-execution static malware analysis engine. Detects packed payloads via Shannon entropy with a pluggable heuristic risk engine, without executing the files.
+IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
 
-`C++20` `CMake` `cpp-httplib`
+`ESP32` `MQTT` `HiveMQ` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
