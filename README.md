@@ -138,16 +138,14 @@ const rishit: Developer = {
 <br/>
 
 ## Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🗺️ Cartographer : Agentic Codebase Understanding & Refactor Engine
-
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
 
-Multi-agent AI system for repository understanding and autonomous refactoring. AST-derived code knowledge graph with hybrid graph + vector retrieval, Docker sandboxed code edits, and self-healing validation through an automated test-runner reflection loop.
+Maps a codebase into a knowledge graph and makes sandboxed refactors with automated test validation.
 
 `Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `pgvector` `Docker` `React`
 
@@ -155,10 +153,9 @@ Multi-agent AI system for repository understanding and autonomous refactoring. A
 <td width="50%" valign="top">
 
 ### 📞 O2R : Retailer Order Prediction
-
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
 
-ML system optimizing outbound call-centre operations by predicting retailer order probability. Temporal feature grid with strict lag windowing, XGBoost/CatBoost ensemble, Streamlit dashboard with live SHAP explainability.
+Predicts retailer order probability from call-centre data using an XGBoost/CatBoost ensemble, with a SHAP-explained dashboard.
 
 `Python` `XGBoost` `Streamlit` `SHAP` `Plotly`
 
@@ -168,11 +165,10 @@ ML system optimizing outbound call-centre operations by predicting retailer orde
 <td width="50%" valign="top">
 
 ### 🔍 VoidCheck : AI Code Review
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
 
-Full-stack AI code review platform. Paste code or a GitHub URL and get instant health scores, bug detection, and security analysis powered by Groq LLaMA 3.3 70B via LangChain.
+Paste code or a GitHub URL to get an LLM-based code review: bug detection, security issues, and a health score.
 
 `React` `Node.js` `LangChain` `Groq` `Vercel`
 
@@ -180,10 +176,9 @@ Full-stack AI code review platform. Paste code or a GitHub URL and get instant h
 <td width="50%" valign="top">
 
 ### 🛡️ ModelGuard : ML Security Scanner
-
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
 
-Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vectors via pickle bytecode disassembly, Trail of Bits' fickling, YARA rules and HuggingFace integration.
+Scans `.pkl`/`.pt`/`.bin` model files for malicious code using pickle disassembly and YARA rules.
 
 `Python` `fickling` `YARA` `pickle`
 
@@ -193,10 +188,9 @@ Static analysis tool scanning AI model files (`.pkl`, `.pt`, `.bin`) for RCE vec
 <td width="50%" valign="top">
 
 ### 🌾 SmartAgri : IoT Precision Farming
-
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
-IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Forest model trained on 2200+ samples for crop recommendations and interactive dashboards.
+ESP32 + MQTT sensor pipeline feeding a Random Forest model for crop recommendations, with a live dashboard.
 
 `ESP32` `MQTT` `HiveMQ` `scikit-learn`
 
@@ -204,17 +198,15 @@ IoT farming system with real-time MQTT sensor ingestion via HiveMQ. Random Fores
 <td width="50%" valign="top">
 
 ### 📁 DupSense : Smart Duplicate Finder
-
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
 
-Duplicate detection utility using MD5 hashing for exact matches and perceptual hashing (pHash) for visually similar images. Features intelligent grouping and safe quarantine mode.
+Finds duplicate and visually similar files using MD5 and perceptual hashing, with a safe quarantine mode.
 
 `Python` `MD5` `pHash`
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## GitHub Analytics
