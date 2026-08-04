@@ -44,40 +44,6 @@ const rishit: Developer = {
     "Data Engineering",
     "Agentic AI",
   ],
-
-  languages: [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "TypeScript",
-    "SQL",
-  ],
-
-  ai_ml: [
-    "LangGraph",
-    "LangChain",
-    "RAG",
-    "XGBoost",
-    "CatBoost",
-    "PyTorch",
-    "TensorFlow",
-    "Scikit-Learn",
-    "NLP",
-  ],
-
-  data: [
-    "Pandas",
-    "NumPy",
-    "SciPy",
-    "PostgreSQL",
-    "MongoDB",
-    "Streamlit",
-    "Plotly",
-    "MQTT",
-    "Excel",
-  ],
-};
 ```
 
 </td>
