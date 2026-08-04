@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** passionate about **Data Analytics**, **AI/ML**, and **LLM-powered applications**.
+I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** with a strong interest in **AI/ML**, **Data Engineering**, and **LLM-powered applications**, building intelligent systems that combine machine learning with scalable software.
 
 <table align="center">
 <tr>
@@ -36,23 +36,54 @@ const rishit: Developer = {
   name: "Rishit Chaudhary",
   education: "B.Tech CSE (IoT) @ VIT Vellore",
   location: "Noida, India",
-  year: "Final Year · Batch of 2027",
+  year: "Final Year",
 
-  roles: [
-    "Data Analytics",
-    "AI/LLM Integration Specialist",
-    "UI/UX Designer",
+  interests: [
+    "AI/ML",
+    "Data Engineering",
+    "Agentic AI",
   ],
 
-  coreTech: {
-    frontend: ["React", "Vite", "TailwindCSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "FastAPI"],
-    ai: ["Groq LLaMA 3", "Gemini", "LangChain"],
-    cloud: ["AWS", "Vercel", "Render"],
-  },
+  languages: [
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+  ],
+
+  ai_ml: [
+    "LangGraph",
+    "LangChain",
+    "RAG",
+    "XGBoost",
+    "CatBoost",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-Learn",
+    "NLP",
+  ],
+
+  data: [
+    "Pandas",
+    "NumPy",
+    "SciPy",
+    "PostgreSQL",
+    "MongoDB",
+    "Streamlit",
+    "Plotly",
+    "MQTT",
+    "Excel",
+  ],
 };
 ```
 
+</td>
+</tr>
+</table>
+
+<br/>
 </td>
 
 <td width="35%" align="center">
