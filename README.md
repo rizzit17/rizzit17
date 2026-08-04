@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
 <img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=131313"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=131313"/>
 
