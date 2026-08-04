@@ -27,8 +27,9 @@
 
 I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** with a strong interest in **AI/ML**, **Data Engineering**, and **LLM-powered applications**, building intelligent systems that combine machine learning with scalable software.
 
-<table align="center">
+<table>
 <tr>
+
 <td width="65%" valign="top">
 
 ```ts
@@ -80,19 +81,16 @@ const rishit: Developer = {
 ```
 
 </td>
-</tr>
-</table>
 
-<br/>
-</td>
-
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240"/>
 
 </td>
+
 </tr>
 </table>
+
 <br/>
 
 ## ⚡ Tech Stack
