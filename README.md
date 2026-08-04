@@ -68,7 +68,7 @@ const rishit: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,github,aws,azure,tensorflow,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,github,tensorflow,pytorch&theme=dark"/>
 
 </div>
 
