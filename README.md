@@ -137,77 +137,36 @@ const rishit: Developer = {
 
 <br/>
 
-## Projects
-<table>
-<tr>
-<td width="50%" valign="top">
+Projects
+🗺️ Cartographer : Agentic Codebase Engine
+Maps codebases into knowledge graphs and executes self-healing multi-file refactors via stateful multi-agent workflows.
 
-### 🗺️ Cartographer : Agentic Codebase Understanding & Refactor Engine
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
+Python FastAPI LangGraph LangChain PostgreSQL Docker React
 
-Maps a codebase into a knowledge graph and makes sandboxed refactors with automated test validation.
+💊 PharmAssist : AI Complaint System
+Automates enterprise complaint triage, intent routing, and entity extraction using a 10-node stateful agentic pipeline.
 
-`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `pgvector` `Docker` `React`
+Python FastAPI LangGraph PostgreSQL React TypeScript Docker
 
-</td>
-<td width="50%" valign="top">
+📞 O2R : Retailer Order Prediction
+Predicts B2B retailer re-order propensity over 1.3M+ records using XGBoost/CatBoost models to optimize call center operations.
 
-### 📞 O2R : Retailer Order Prediction
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
+Python XGBoost CatBoost SQL Pandas Streamlit Plotly
 
-Predicts retailer order probability from call-centre data using an XGBoost/CatBoost ensemble, with a SHAP-explained dashboard.
+🛍️ O2R : Retailer Recommendation Engine
+Generates real-time SKU cross-sell recommendations by combining Collaborative Filtering and FP-Growth rules on sparse matrices.
 
-`Python` `XGBoost` `Streamlit` `SHAP` `Plotly`
+Python Pandas SciPy FP-Growth Streamlit Plotly
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🌾 SmartAgri : IoT Precision Farming
+Streams real-time sensor telemetry via MQTT to feed a Random Forest model for confidence-ranked crop predictions.
 
-### 🔍 VoidCheck : AI Code Review
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4EDEA3?style=flat-square&logo=vercel&logoColor=131313)](https://void-check.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/VoidCheck)
+Python ESP32 MQTT HiveMQ scikit-learn Streamlit
 
-Paste code or a GitHub URL to get an LLM-based code review: bug detection, security issues, and a health score.
+📁 DupSense : Smart Duplicate Finder
+Detects duplicate and visually similar files using cryptographic MD5 and perceptual hashing with safe quarantine isolation.
 
-`React` `Node.js` `LangChain` `Groq` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ ModelGuard : ML Security Scanner
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/ModelGuard)
-
-Scans `.pkl`/`.pt`/`.bin` model files for malicious code using pickle disassembly and YARA rules.
-
-`Python` `fickling` `YARA` `pickle`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 SmartAgri : IoT Precision Farming
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
-
-ESP32 + MQTT sensor pipeline feeding a Random Forest model for crop recommendations, with a live dashboard.
-
-`ESP32` `MQTT` `HiveMQ` `scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 DupSense : Smart Duplicate Finder
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
-
-Finds duplicate and visually similar files using MD5 and perceptual hashing, with a safe quarantine mode.
-
-`Python` `MD5` `pHash`
-
-</td>
-</tr>
-</table>
-<br/>
+Python MD5 pHash File-System
 
 ## GitHub Analytics
 
