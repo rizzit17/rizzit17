@@ -179,7 +179,7 @@ Predicts B2B retailer re-order propensity across **1.3M+** transaction records u
 <td width="50%" valign="top">
 
 ### 🛍️ O2R : Retailer Recommendation Engine
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Retailer-Recommendation-Engine)
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-recommender)
 
 Generates real-time SKU cross-sell recommendations by combining Collaborative Filtering with FP-Growth association rules on sparse purchase matrices.
 
