@@ -137,36 +137,83 @@ const rishit: Developer = {
 
 <br/>
 
-Projects
-🗺️ Cartographer : Agentic Codebase Engine
-Maps codebases into knowledge graphs and executes self-healing multi-file refactors via stateful multi-agent workflows.
+## 🚀 Projects
 
-Python FastAPI LangGraph LangChain PostgreSQL Docker React
+<table>
+<tr>
+<td width="50%" valign="top">
 
-💊 PharmAssist : AI Complaint System
-Automates enterprise complaint triage, intent routing, and entity extraction using a 10-node stateful agentic pipeline.
+### 🗺️ Cartographer : Agentic Codebase Engine
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
 
-Python FastAPI LangGraph PostgreSQL React TypeScript Docker
+Maps large codebases into knowledge graphs and performs self-healing multi-file refactors through stateful multi-agent workflows.
 
-📞 O2R : Retailer Order Prediction
-Predicts B2B retailer re-order propensity over 1.3M+ records using XGBoost/CatBoost models to optimize call center operations.
+`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `Docker` `React`
 
-Python XGBoost CatBoost SQL Pandas Streamlit Plotly
+</td>
 
-🛍️ O2R : Retailer Recommendation Engine
-Generates real-time SKU cross-sell recommendations by combining Collaborative Filtering and FP-Growth rules on sparse matrices.
+<td width="50%" valign="top">
 
-Python Pandas SciPy FP-Growth Streamlit Plotly
+### 💊 PharmAssist : AI Complaint System
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
-🌾 SmartAgri : IoT Precision Farming
-Streams real-time sensor telemetry via MQTT to feed a Random Forest model for confidence-ranked crop predictions.
+Automates enterprise complaint triage, intent routing, entity extraction, and resolution workflows using a 10-node stateful agentic pipeline.
 
-Python ESP32 MQTT HiveMQ scikit-learn Streamlit
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `React` `TypeScript` `Docker`
 
-📁 DupSense : Smart Duplicate Finder
-Detects duplicate and visually similar files using cryptographic MD5 and perceptual hashing with safe quarantine isolation.
+</td>
+</tr>
 
-Python MD5 pHash File-System
+<tr>
+<td width="50%" valign="top">
+
+### 📞 O2R : Retailer Order Prediction
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
+
+Predicts B2B retailer re-order propensity across **1.3M+** transaction records using XGBoost and CatBoost models to optimize call center outreach.
+
+`Python` `XGBoost` `CatBoost` `SQL` `Pandas` `Streamlit` `Plotly`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ O2R : Retailer Recommendation Engine
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Retailer-Recommendation-Engine)
+
+Generates real-time SKU cross-sell recommendations by combining Collaborative Filtering with FP-Growth association rules on sparse purchase matrices.
+
+`Python` `Pandas` `SciPy` `FP-Growth` `Streamlit` `Plotly`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 SmartAgri : IoT Precision Farming
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
+
+Streams real-time sensor telemetry through MQTT to power a Random Forest model for confidence-ranked crop recommendations.
+
+`Python` `ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📁 DupSense : Smart Duplicate Finder
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
+
+Detects duplicate and visually similar files using cryptographic MD5 hashing and perceptual hashing with secure quarantine isolation.
+
+`Python` `MD5` `pHash` `File System`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## GitHub Analytics
 
