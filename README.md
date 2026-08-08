@@ -160,7 +160,7 @@ const rishit: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Cartographer : Agentic Codebase Engine
+### Cartographer : Agentic Codebase Engine
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
 
 Maps large codebases into knowledge graphs and performs self-healing multi-file refactors through stateful multi-agent workflows.
