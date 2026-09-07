@@ -159,7 +159,7 @@ High-performance booking platform built for high-demand ticket drops. Features z
 
 Predicts B2B retailer re-order propensity across **1.3M+** transaction records using XGBoost and CatBoost models to optimize call center outreach.
 
-`Python` `XGBoost` `CatBoost` `SQL` `Pandas` `Streamlit` `Plotly`
+`Python` `XGBoost` `CatBoost` `Pandas` `Streamlit` `Plotly`
 
 </td>
 
