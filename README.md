@@ -130,23 +130,23 @@ I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** with a strong i
 <tr>
 <td width="50%" valign="top">
 
-### Cartographer : Agentic Codebase Engine
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/Cartographer)
-
-Maps large codebases into knowledge graphs and performs self-healing multi-file refactors through stateful multi-agent workflows.
-
-`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `Docker` `React`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### PharmAssist : AI Complaint System
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
 Automates enterprise complaint triage, intent routing, entity extraction, and resolution workflows using a 10-node stateful agentic pipeline.
 
 `Python` `FastAPI` `LangGraph` `PostgreSQL` `React` `TypeScript` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Seatzy : Event Ticketing Platform
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
+
+High-performance booking platform built for high-demand ticket drops. Features zero-double-booking concurrency control, automated waitlist reallocation, real-time visual seat selection, and instant QR admission.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Vercel`
 
 </td>
 </tr>
@@ -165,36 +165,12 @@ Predicts B2B retailer re-order propensity across **1.3M+** transaction records u
 
 <td width="50%" valign="top">
 
-### B2B Retailer Recommendation Engine
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-recommender)
-
-Generates real-time SKU cross-sell recommendations by combining Collaborative Filtering with FP-Growth association rules on sparse purchase matrices.
-
-`Python` `Pandas` `SciPy` `FP-Growth` `Streamlit` `Plotly`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### SmartAgri : IoT Precision Farming
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
 Streams real-time sensor telemetry through MQTT to power a Random Forest model for confidence-ranked crop recommendations.
 
 `Python` `ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
-
-</td>
-
-<td width="50%" valign="top">
-
-### DupSense : Smart Duplicate Finder
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/DupSense)
-
-Detects duplicate and visually similar files using cryptographic MD5 hashing and perceptual hashing with secure quarantine isolation.
-
-`Python` `MD5` `pHash` `File System`
 
 </td>
 </tr>
