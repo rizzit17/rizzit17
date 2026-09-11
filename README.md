@@ -40,7 +40,7 @@ I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** with a strong i
 <br/>
 
 <details>
-<summary><b>🛠️ Full breakdown by category</b></summary>
+<summary><b>Full breakdown by category</b></summary>
 <br/>
 
 <div align="center">
