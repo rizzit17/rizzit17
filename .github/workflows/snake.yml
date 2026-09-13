@@ -15,6 +15,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare dist directory
+        run: mkdir -p dist && chmod 777 dist
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: rizzit17
+          options: "custom_title=Contribution Graph&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&bg_color=0C0C0C&border_color=1f1f1f&title_color=e5e2e1"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
@@ -25,14 +39,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=%234EDEA3&color_dots=%231f1f1f,%234EDEA3,%234EDEA3,%234EDEA3,%234EDEA3
 
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: rizzit17
-          options: "custom_title=Contribution Graph&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&bg_color=0C0C0C&border_color=1f1f1f&title_color=e5e2e1"
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
