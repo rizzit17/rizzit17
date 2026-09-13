@@ -196,7 +196,7 @@ Streams real-time sensor telemetry through MQTT to power a Random Forest model f
 </div>
 
 <br/>
-<img width="98%" src="https://ghchart.rshah.org/4EDEA3/rizzit17" alt="Contribution Graph"/>
+<img width="98%" src="https://activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
