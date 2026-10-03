@@ -25,7 +25,7 @@
 
 <br/>
 
-## &nbsp;👋 About Me
+## &nbsp;About Me
 
 Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model — it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
 
@@ -33,7 +33,7 @@ Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**
 
 <br/>
 
-## &nbsp;🛠️ Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,express,fastapi,postgres,mongodb,docker,github,tensorflow,pytorch&theme=dark"/>
@@ -109,13 +109,13 @@ Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**
 
 <br/>
 
-## &nbsp;🚀 Featured Projects
+## &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 PharmAssist — AI Complaint System
+### PharmAssist — AI Complaint System
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
 A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end — intent routing, entity extraction, and resolution workflows — replacing manual first-pass sorting.
@@ -125,7 +125,7 @@ A **10-node stateful agentic pipeline** that automates enterprise complaint tria
 </td>
 <td width="50%" valign="top">
 
-### 📊 B2B Retailer Order Prediction
+### B2B Retailer Order Prediction
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
 
 Predicts re-order propensity across **1.3M+ transactions** using XGBoost and CatBoost, cutting wasted outreach by ranking call-center targets by purchase likelihood.
@@ -137,7 +137,7 @@ Predicts re-order propensity across **1.3M+ transactions** using XGBoost and Cat
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ Seatzy — Event Ticketing Platform
+### Seatzy — Event Ticketing Platform
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-047857?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
 
 High-throughput booking platform built for ticket-drop demand spikes — **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
@@ -147,7 +147,7 @@ High-throughput booking platform built for ticket-drop demand spikes — **zero 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 SmartAgri — IoT Precision Farming
+### SmartAgri — IoT Precision Farming
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
 Streams **real-time sensor telemetry** over MQTT into a Random Forest model, delivering confidence-ranked crop recommendations from live field conditions.
@@ -160,7 +160,7 @@ Streams **real-time sensor telemetry** over MQTT into a Random Forest model, del
 
 <br/>
 
-## &nbsp;📈 GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -191,6 +191,6 @@ Streams **real-time sensor telemetry** over MQTT into a Random Forest model, del
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=160&section=footer&text=Let's%20Build%20Something&fontSize=28&fontColor=4EDEA3&fontAlignY=65"/>
 
-**Open to full-time roles, internships, and interesting builds — [let's talk](mailto:rishitwork28@gmail.com).**
+**Open to full-time roles, internships, and interesting builds - [let's talk](mailto:rishitwork28@gmail.com).**
 
 </div>
