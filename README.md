@@ -27,7 +27,7 @@
 
 ## &nbsp;About Me
 
-Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model — it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
+Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model, it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
 
 **Currently exploring:** agentic workflows with LangGraph · retrieval-augmented systems · high-throughput data products
 
@@ -54,7 +54,6 @@ Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**
 ![SQL](https://img.shields.io/badge/SQL-047857?style=flat-square&logo=mysql&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-047857?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-047857?style=flat-square)
-![OS](https://img.shields.io/badge/Operating_Systems-047857?style=flat-square)
 
 <br/>
 
@@ -115,12 +114,12 @@ Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**
 <tr>
 <td width="50%" valign="top">
 
-### PharmAssist — AI Complaint System
+### PharmAssist - AI Complaint System
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
 A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end — intent routing, entity extraction, and resolution workflows — replacing manual first-pass sorting.
 
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `React` `TypeScript` `Docker`
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `TypeScript` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +136,7 @@ Predicts re-order propensity across **1.3M+ transactions** using XGBoost and Cat
 <tr>
 <td width="50%" valign="top">
 
-### Seatzy — Event Ticketing Platform
+### Seatzy - Event Ticketing Platform
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-047857?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
 
 High-throughput booking platform built for ticket-drop demand spikes — **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
@@ -147,7 +146,7 @@ High-throughput booking platform built for ticket-drop demand spikes — **zero 
 </td>
 <td width="50%" valign="top">
 
-### SmartAgri — IoT Precision Farming
+### SmartAgri - IoT Precision Farming
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
 Streams **real-time sensor telemetry** over MQTT into a Random Forest model, delivering confidence-ranked crop recommendations from live field conditions.
