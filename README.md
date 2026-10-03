@@ -16,14 +16,7 @@
 <a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
-
-</div>
-
-<br/>
+<br>
 
 ## &nbsp;About Me
 
