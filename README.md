@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=220&section=header&text=Rishit%20Chaudhary&fontSize=60&fontColor=4EDEA3&fontAlignY=38&desc=Data%20Analytics%20%C2%B7%20AI%2FLLM%20Integrations%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=220&section=header&text=Rishit%20Chaudhary&fontSize=58&fontColor=4EDEA3&fontAlignY=36&desc=Building%20AI-powered%20systems%20%E2%80%94%20from%20agentic%20pipelines%20to%20production%20data%20products&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Vellore-047857?style=for-the-badge&labelColor=131313"/>
-<img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=131313"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=131313"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=0C0C0C"/>
+<img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=0C0C0C"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=0C0C0C"/>
 
-<br><br>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
 <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=rizzit17&label=Profile+Views&color=047857&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/rizzit17?label=Followers&style=flat-square&color=047857"/>
@@ -23,152 +25,132 @@
 
 <br/>
 
-## About Me
+## &nbsp;👋 About Me
 
-I'm a **Final Year B.Tech CSE (IoT)** student at **VIT Vellore** with a strong interest in **AI/ML**, **Data Engineering**, and **LLM-powered applications**, building intelligent systems that combine machine learning with scalable software.
+Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model — it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
 
+**Currently exploring:** agentic workflows with LangGraph · retrieval-augmented systems · high-throughput data products
 
+<br/>
 
-## Tech Stack
+## &nbsp;🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,express,fastapi,postgres,mongodb,docker,github,tensorflow,pytorch&theme=dark"/>
-
 </div>
 
-<br/>
-
 <details>
-<summary><b>Full breakdown by category</b></summary>
+<summary><b>&nbsp;Full breakdown by category</b></summary>
 <br/>
 
 <div align="center">
 
-**Languages**
+**Languages & Core CS**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
-
-**Core CS**
-<br/>
-![Data Structures](https://img.shields.io/badge/Data_Structures-0A66C2?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-5E35B1?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-FF9800?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-00897B?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-607D8B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-047857?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-047857?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-047857?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-047857?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-047857?style=flat-square&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-047857?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-047857?style=flat-square)
+![OS](https://img.shields.io/badge/Operating_Systems-047857?style=flat-square)
 
 <br/>
 
 **AI / Machine Learning**
 <br/>
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-4EDEA3?style=flat-square&logoColor=131313)
+![CatBoost](https://img.shields.io/badge/CatBoost-4EDEA3?style=flat-square&logoColor=131313)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-4EDEA3?style=flat-square&logo=scikit-learn&logoColor=131313)
+![PyTorch](https://img.shields.io/badge/PyTorch-4EDEA3?style=flat-square&logo=pytorch&logoColor=131313)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4EDEA3?style=flat-square&logo=tensorflow&logoColor=131313)
+![SciPy](https://img.shields.io/badge/SciPy-4EDEA3?style=flat-square&logo=scipy&logoColor=131313)
 
 <br/>
 
-**Agentic AI**
+**Agentic AI & LLMs**
 <br/>
-![LangGraph](https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7B1FA2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF7043?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-00ACC1?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F6FEB?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1F6FEB?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-1F6FEB?style=flat-square)
 
 <br/>
 
 **Data Engineering & Analytics**
 <br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-131313?style=flat-square&logo=pandas&logoColor=4EDEA3)
+![NumPy](https://img.shields.io/badge/NumPy-131313?style=flat-square&logo=numpy&logoColor=4EDEA3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-131313?style=flat-square&logo=postgresql&logoColor=4EDEA3)
+![MongoDB](https://img.shields.io/badge/MongoDB-131313?style=flat-square&logo=mongodb&logoColor=4EDEA3)
+![MQTT](https://img.shields.io/badge/MQTT-131313?style=flat-square&logo=eclipsemosquitto&logoColor=4EDEA3)
+![Streamlit](https://img.shields.io/badge/Streamlit-131313?style=flat-square&logo=streamlit&logoColor=4EDEA3)
+![Plotly](https://img.shields.io/badge/Plotly-131313?style=flat-square&logo=plotly&logoColor=4EDEA3)
+![Excel](https://img.shields.io/badge/Excel-131313?style=flat-square&logo=microsoft-excel&logoColor=4EDEA3)
 
 <br/>
 
-**Full-Stack Development**
+**Full-Stack & Cloud**
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-
-<br/>
-
-**Cloud & DevOps**
-<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0C0C0C?style=flat-square&logo=fastapi&logoColor=4EDEA3)
+![React](https://img.shields.io/badge/React-0C0C0C?style=flat-square&logo=react&logoColor=4EDEA3)
+![Next.js](https://img.shields.io/badge/Next.js-0C0C0C?style=flat-square&logo=next.js&logoColor=4EDEA3)
+![Node.js](https://img.shields.io/badge/Node.js-0C0C0C?style=flat-square&logo=node.js&logoColor=4EDEA3)
+![REST API](https://img.shields.io/badge/REST_API-0C0C0C?style=flat-square&logoColor=4EDEA3)
+![Docker](https://img.shields.io/badge/Docker-0C0C0C?style=flat-square&logo=docker&logoColor=4EDEA3)
+![AWS](https://img.shields.io/badge/AWS-0C0C0C?style=flat-square&logo=amazonaws&logoColor=4EDEA3)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0C0C0C?style=flat-square&logo=github-actions&logoColor=4EDEA3)
+![Git](https://img.shields.io/badge/Git-0C0C0C?style=flat-square&logo=git&logoColor=4EDEA3)
 
 </div>
-
 </details>
 
 <br/>
 
-## Projects
+## &nbsp;🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### PharmAssist : AI Complaint System
+### 🤖 PharmAssist — AI Complaint System
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
-Automates enterprise complaint triage, intent routing, entity extraction, and resolution workflows using a 10-node stateful agentic pipeline.
+A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end — intent routing, entity extraction, and resolution workflows — replacing manual first-pass sorting.
 
 `Python` `FastAPI` `LangGraph` `PostgreSQL` `React` `TypeScript` `Docker`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Seatzy : Event Ticketing Platform
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
-
-High-performance booking platform built for high-demand ticket drops. Features zero-double-booking concurrency control, automated waitlist reallocation, real-time visual seat selection, and instant QR admission.
-
-`Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Vercel`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### B2B Retailer Order Prediction
+### 📊 B2B Retailer Order Prediction
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
 
-Predicts B2B retailer re-order propensity across **1.3M+** transaction records using XGBoost and CatBoost models to optimize call center outreach.
+Predicts re-order propensity across **1.3M+ transactions** using XGBoost and CatBoost, cutting wasted outreach by ranking call-center targets by purchase likelihood.
 
 `Python` `XGBoost` `CatBoost` `Pandas` `Streamlit` `Plotly`
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### SmartAgri : IoT Precision Farming
+### 🎟️ Seatzy — Event Ticketing Platform
+[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-047857?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
+
+High-throughput booking platform built for ticket-drop demand spikes — **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 SmartAgri — IoT Precision Farming
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
 
-Streams real-time sensor telemetry through MQTT to power a Random Forest model for confidence-ranked crop recommendations.
+Streams **real-time sensor telemetry** over MQTT into a Random Forest model, delivering confidence-ranked crop recommendations from live field conditions.
 
 `Python` `ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
 
@@ -178,42 +160,37 @@ Streams real-time sensor telemetry through MQTT to power a Random Forest model f
 
 <br/>
 
-## GitHub Analytics
+## &nbsp;📈 GitHub Analytics
 
 <div align="center">
 
 <table>
 <tr>
 <td valign="top" align="center">
-<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham" alt="Rishit's GitHub stats"/></a>
+<img src="https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham" alt="Rishit's GitHub stats"/>
 </td>
 <td valign="top" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak"/></a>
+<img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
+
+<img width="98%" src="https://activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
 
 <br/>
-<img width="98%" src="https://activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
-<br/><br/>
+
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:0C0C0C&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=160&section=footer&text=Let's%20Build%20Something&fontSize=28&fontColor=4EDEA3&fontAlignY=65"/>
 
-### Open to full-time roles, internships, and interesting builds
-If you've read this far, let's talk.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
-<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**Open to full-time roles, internships, and interesting builds — [let's talk](mailto:rishitwork28@gmail.com).**
 
 </div>
