@@ -117,7 +117,7 @@ Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**
 ### PharmAssist - AI Complaint System
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
 
-A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end — intent routing, entity extraction, and resolution workflows — replacing manual first-pass sorting.
+A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end - intent routing, entity extraction, and resolution workflows, replacing manual first-pass sorting.
 
 `Python` `FastAPI` `LangGraph` `PostgreSQL` `TypeScript` `Docker`
 
@@ -139,7 +139,7 @@ Predicts re-order propensity across **1.3M+ transactions** using XGBoost and Cat
 ### Seatzy - Event Ticketing Platform
 [![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-047857?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
 
-High-throughput booking platform built for ticket-drop demand spikes — **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
+High-throughput booking platform built for ticket-drop demand spikes - **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Vercel`
 
