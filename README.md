@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:047857&height=220&section=header&text=Rishit%20Chaudhary&fontSize=58&fontColor=4EDEA3&fontAlignY=36&desc=Building%20AI-powered%20systems%20-%20from%20agentic%20pipelines%20to%20production%20data%20products&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:064E3B,100:059669&height=240&section=header&text=Rishit%20Chaudhary&fontSize=58&fontColor=4EDEA3&fontAlignY=36&desc=Building%20AI-powered%20systems%20-%20from%20agentic%20pipelines%20to%20production%20data%20products&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-047857?style=for-the-badge&labelColor=0C0C0C"/>
-<img src="https://img.shields.io/badge/Batch-2027-4EDEA3?style=for-the-badge&labelColor=0C0C0C"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-4EDEA3?style=for-the-badge&labelColor=0C0C0C"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-064E3B?style=for-the-badge&labelColor=0C0C0C"/>
+<img src="https://img.shields.io/badge/Batch-2027-047857?style=for-the-badge&labelColor=0C0C0C"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-059669?style=for-the-badge&labelColor=0C0C0C&logo=statuspage&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4EDEA3?style=for-the-badge&logo=vercel&logoColor=131313"/></a>
-<a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/GitHub-131313?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/-LinkedIn-0C0C0C?style=for-the-badge&logo=linkedin&logoColor=4EDEA3"/></a>
+<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0C0C0C?style=for-the-badge&logo=vercel&logoColor=4EDEA3"/></a>
+<a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/-GitHub-0C0C0C?style=for-the-badge&logo=github&logoColor=4EDEA3"/></a>
+<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/-LeetCode-0C0C0C?style=for-the-badge&logo=leetcode&logoColor=4EDEA3"/></a>
+<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/-Email-0C0C0C?style=for-the-badge&logo=gmail&logoColor=4EDEA3"/></a>
 
-<br>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C0C,50:059669,100:0C0C0C&height=2&section=header"/>
+
+</div>
 
 ## &nbsp;About Me
 
