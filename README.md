@@ -162,16 +162,22 @@ Streams **real-time sensor telemetry** over MQTT into a Random Forest model, del
 <img src="https://github-stats-extended.vercel.app/api?username=rizzit17&show_icons=true&theme=gotham" alt="Rishit's GitHub stats"/>
 </td>
 <td valign="top" align="center">
-<img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizzit17&layout=compact&langs_count=8&theme=gotham" alt="Rishit's Top Languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=rizzit17&theme=gotham&border_radius=5" alt="GitHub Streak"/>
+
+<br/><br/>
+
 <img width="98%" src="https://activity-graph.vercel.app/graph?username=rizzit17&bg_color=0C0C0C&color=4EDEA3&line=4EDEA3&point=ffffff&area=true&area_color=4EDEA3&border_color=1f1f1f&title_color=e5e2e1" alt="Contribution Graph"/>
 
 <br/>
+
+</div>
 
 <img width="98%" src="https://raw.githubusercontent.com/rizzit17/rizzit17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
