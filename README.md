@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Batch-2027-047857?style=for-the-badge&labelColor=0C0C0C"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-059669?style=for-the-badge&labelColor=0C0C0C&logo=statuspage&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/-LinkedIn-0C0C0C?style=for-the-badge&logo=linkedin&logoColor=4EDEA3"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0C0C0C?style=for-the-badge&logo=vercel&logoColor=4EDEA3"/></a>
