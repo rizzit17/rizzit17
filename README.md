@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/-LinkedIn-0C0C0C?style=for-the-badge&logo=LinkedIn&logoColor=4EDEA3&cache=1"/></a>
+<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/-LinkedIn-0C0C0C?style=for-the-badge&logo=linkedin&logoColor=%234EDEA3&v=2"/></a>
 <a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0C0C0C?style=for-the-badge&logo=vercel&logoColor=4EDEA3"/></a>
 <a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/-GitHub-0C0C0C?style=for-the-badge&logo=github&logoColor=4EDEA3"/></a>
 <a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/-LeetCode-0C0C0C?style=for-the-badge&logo=leetcode&logoColor=4EDEA3"/></a>
