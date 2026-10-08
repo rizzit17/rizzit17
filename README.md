@@ -16,11 +16,9 @@
 <a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/-LeetCode-0C0C0C?style=for-the-badge&logo=leetcode&logoColor=4EDEA3"/></a>
 <a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/-Email-0C0C0C?style=for-the-badge&logo=gmail&logoColor=4EDEA3"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C0C,50:059669,100:0C0C0C&height=2&section=header"/>
-
-</div>
 
 ## &nbsp;About Me
 
