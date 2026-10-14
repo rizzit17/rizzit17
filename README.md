@@ -22,7 +22,7 @@
 
 ## &nbsp;About Me
 
-Final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model, it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
+Final-year **B.Tech CSE** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model, it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
 
 **Currently exploring:** agentic workflows with LangGraph · retrieval-augmented systems · high-throughput data products
 
