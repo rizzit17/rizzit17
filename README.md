@@ -15,13 +15,13 @@
 
 ## About Me
 
-I'm a final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, graduating in **2027**. I work across **AI/ML, backend engineering and data systems**, with an interest in how technical decisions translate into useful products.
+I'm a final-year **B.Tech CSE** student at **VIT Vellore**, graduating in **2027**. I work across **AI/ML, backend engineering and data systems**, with an interest in how technical decisions translate into useful products.
 
 I enjoy the work around the model as much as the model itself: handling messy inputs, designing reliable APIs, keeping data consistent and making the whole system usable.
 
 **Experience:** DS Group summer internship · Amazon ML Summer School '26  
 **Exploring:** agentic workflows · retrieval-augmented systems · data products  
-**Open to:** paid six-month internships and graduate opportunities
+**Open to:** six-month internships and graduate opportunities
 
 <br />
 
