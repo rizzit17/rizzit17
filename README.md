@@ -1,38 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:064E3B,100:059669&height=240&section=header&text=Rishit%20Chaudhary&fontSize=58&fontColor=4EDEA3&fontAlignY=36&desc=Building%20AI-powered%20systems%20-%20from%20agentic%20pipelines%20to%20production%20data%20products&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
+<img src="./assets/profile-header.svg" width="100%" alt="Rishit Chaudhary — AI systems, useful data and thoughtful software" />
 
-<br/>
+<br />
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(IoT)-VIT%20Vellore-064E3B?style=for-the-badge&labelColor=0C0C0C"/>
-<img src="https://img.shields.io/badge/Batch-2027-047857?style=for-the-badge&labelColor=0C0C0C"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-059669?style=for-the-badge&labelColor=0C0C0C&logo=statuspage&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/LinkedIn-Connect-064E3B?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0C0C0C" alt="Connect on LinkedIn" /></a>
+<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-064E3B?style=flat-square&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0C0C0C" alt="Explore my portfolio" /></a>
+<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/LeetCode-Practice-064E3B?style=flat-square&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0C0C0C" alt="LeetCode profile" /></a>
+<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-064E3B?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0C0C0C" alt="Email Rishit" /></a>
 
-<br/><br/>
+<p><a href="#about-me">About</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#projects">Projects</a> &nbsp; / &nbsp; <a href="#github-analytics">GitHub analytics</a></p>
 
-<a href="https://www.linkedin.com/in/rishit-chaudhary17"><img src="https://img.shields.io/badge/-LinkedIn-0C0C0C?style=for-the-badge&logo=linkedin&logoColor=%234EDEA3&v=2"/></a>
-<a href="https://rishucv.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0C0C0C?style=for-the-badge&logo=vercel&logoColor=4EDEA3"/></a>
-<a href="https://github.com/rizzit17"><img src="https://img.shields.io/badge/-GitHub-0C0C0C?style=for-the-badge&logo=github&logoColor=4EDEA3"/></a>
-<a href="https://leetcode.com/u/rishit_17/"><img src="https://img.shields.io/badge/-LeetCode-0C0C0C?style=for-the-badge&logo=leetcode&logoColor=4EDEA3"/></a>
-<a href="mailto:rishitwork28@gmail.com"><img src="https://img.shields.io/badge/-Email-0C0C0C?style=for-the-badge&logo=gmail&logoColor=4EDEA3"/></a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C0C,50:059669,100:0C0C0C&height=2&section=header"/>
-
-## &nbsp;About Me
-
-Final-year **B.Tech CSE** student at **VIT Vellore**, focused on **AI/ML**, **data engineering**, and **LLM-powered applications**. I like building systems where the interesting part isn't the model, it's getting it to behave reliably inside a real pipeline, at scale, under real constraints.
-
-**Currently exploring:** agentic workflows with LangGraph · retrieval-augmented systems · high-throughput data products
-
-<br/>
-
-## &nbsp;Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,express,fastapi,postgres,mongodb,docker,github,tensorflow,pytorch&theme=dark"/>
 </div>
+
+## About Me
+
+I'm a final-year **B.Tech CSE (IoT)** student at **VIT Vellore**, graduating in **2027**. I work across **AI/ML, backend engineering and data systems**, with an interest in how technical decisions translate into useful products.
+
+I enjoy the work around the model as much as the model itself: handling messy inputs, designing reliable APIs, keeping data consistent and making the whole system usable.
+
+**Experience:** DS Group summer internship · Amazon ML Summer School '26  
+**Exploring:** agentic workflows · retrieval-augmented systems · data products  
+**Open to:** paid six-month internships and graduate opportunities
+
+<br />
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,fastapi,postgres,mongodb,docker,pytorch&amp;perline=6&amp;theme=dark" alt="Python, C++, Java, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, Docker and PyTorch" />
+</p>
 
 <details>
 <summary><b>&nbsp;Full breakdown by category</b></summary>
@@ -101,58 +98,74 @@ Final-year **B.Tech CSE** student at **VIT Vellore**, focused on **AI/ML**, **da
 </div>
 </details>
 
-<br/>
+<br />
 
-## &nbsp;Featured Projects
+## Projects
+
+Six builds across AI, software, data and connected systems. Open a repository for the architecture, implementation and setup.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### PharmAssist - AI Complaint System
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/PharmAssist)
-
-A **10-node stateful agentic pipeline** that automates enterprise complaint triage end-to-end - intent routing, entity extraction, and resolution workflows, replacing manual first-pass sorting.
-
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `TypeScript` `Docker`
-
+<p><sub><b>01 &nbsp; / &nbsp; AGENTIC AI</b></sub></p>
+<h3><a href="https://github.com/rizzit17/pharmassist">PharmAssist</a></h3>
+<p><b>Complaint triage &amp; workflow automation</b></p>
+<p>A stateful, 10-node pipeline for complaint intake, intent routing, entity extraction and resolution workflows.</p>
+<p><sub>Python · FastAPI · LangGraph · PostgreSQL · Docker</sub></p>
+<p><a href="https://github.com/rizzit17/pharmassist"><b>Explore repository ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-### B2B Retailer Order Prediction
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/O2R-Order-Prediction)
-
-Predicts re-order propensity across **1.3M+ transactions** using XGBoost and CatBoost, cutting wasted outreach by ranking call-center targets by purchase likelihood.
-
-`Python` `XGBoost` `CatBoost` `Pandas` `Streamlit` `Plotly`
-
+<p><sub><b>02 &nbsp; / &nbsp; APPLIED MACHINE LEARNING</b></sub></p>
+<h3><a href="https://github.com/rizzit17/O2R-Order-prediction">B2B Order Prediction</a></h3>
+<p><b>Retail intelligence &amp; order forecasting</b></p>
+<p>Uses XGBoost and CatBoost to predict retailer ordering likelihood and help sales teams prioritize outbound calls.</p>
+<p><sub>Python · XGBoost · CatBoost · Pandas · Streamlit</sub></p>
+<p><a href="https://github.com/rizzit17/O2R-Order-prediction"><b>Explore repository ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### Seatzy - Event Ticketing Platform
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/seatzy) [![Live Demo](https://img.shields.io/badge/Live-047857?style=flat-square&logo=vercel&logoColor=white)](https://seatzy-rishit17.vercel.app/)
-
-High-throughput booking platform built for ticket-drop demand spikes - **zero double-booking** under concurrency, automated waitlist reallocation, live seat-map selection, and instant QR admission.
-
-`Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Vercel`
-
+<p><sub><b>03 &nbsp; / &nbsp; FULL-STACK ENGINEERING</b></sub></p>
+<h3><a href="https://github.com/rizzit17/seatzy">Seatzy</a></h3>
+<p><b>Real-time event booking</b></p>
+<p>Atomic seat reservations, live seat selection, automated waitlist reallocation and QR-code ticketing.</p>
+<p><sub>React · TypeScript · PostgreSQL · Redis</sub></p>
+<p><a href="https://github.com/rizzit17/seatzy"><b>Explore repository ↗</b></a> &nbsp; · &nbsp; <a href="https://seatzy-rishit17.vercel.app/"><b>Live demo ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-### SmartAgri - IoT Precision Farming
-[![Repo](https://img.shields.io/badge/Repo-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/rizzit17/SmartAgri)
-
-Streams **real-time sensor telemetry** over MQTT into a Random Forest model, delivering confidence-ranked crop recommendations from live field conditions.
-
-`Python` `ESP32` `MQTT` `HiveMQ` `scikit-learn` `Streamlit`
-
+<p><sub><b>04 &nbsp; / &nbsp; IOT &amp; MACHINE LEARNING</b></sub></p>
+<h3><a href="https://github.com/rizzit17/SmartAgri">SmartAgri</a></h3>
+<p><b>Sensor data → crop recommendations</b></p>
+<p>Streams field telemetry over MQTT and uses a Random Forest model to suggest crops from live sensor readings.</p>
+<p><sub>Python · ESP32 · MQTT · scikit-learn · Streamlit</sub></p>
+<p><a href="https://github.com/rizzit17/SmartAgri"><b>Explore repository ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub><b>05 &nbsp; / &nbsp; AI &amp; BACKEND SYSTEMS</b></sub></p>
+<h3><a href="https://github.com/rizzit17/helm">Helm</a></h3>
+<p><b>A conversational finance copilot</b></p>
+<p>A mobile-first finance app for logging spending, asking questions, importing statements and exploring financial scenarios.</p>
+<p><sub>React Native · FastAPI · LangGraph · PostgreSQL · Redis</sub></p>
+<p><a href="https://github.com/rizzit17/helm"><b>Explore repository ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub><b>06 &nbsp; / &nbsp; DATA &amp; OPERATIONS</b></sub></p>
+<h3><a href="https://github.com/rizzit17/NexusFlow">DS NexusFlow</a></h3>
+<p><b>Logistics analytics &amp; payout operations</b></p>
+<p>Turns payout workbooks into an interactive dashboard for rider summaries, reconciliation and operational insights.</p>
+<p><sub>Next.js · TypeScript · React · Zustand</sub></p>
+<p><a href="https://github.com/rizzit17/NexusFlow"><b>Explore repository ↗</b></a></p>
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
+
+<div align="center">
+
+<a id="github-analytics"></a>
 
 ## &nbsp;GitHub Analytics
 
